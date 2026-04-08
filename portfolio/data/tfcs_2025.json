@@ -1,0 +1,1915 @@
+[
+  {
+    "titulo": "Assessing effectiveness of language models in Project Management Tasks",
+    "autores": "alexandreajunior@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Assessing effectiveness of language models in Project Management Tasks",
+    "palavras_chave": [
+      "LLM",
+      "Project Management",
+      "artificial intelligence",
+      "task effectiveness"
+    ],
+    "areas": [
+      "Artificial Intelligence",
+      "Management"
+    ],
+    "tecnologias": [
+      "LLM",
+      "Ollama",
+      "OpenAI"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "O crescente volume de interações em comunidades virtuais, como fóruns do Reddit,",
+    "autores": "thiagohenrique@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "O crescente volume de interações em comunidades virtuais, como fóruns do Reddit, oferece oportunidades valiosas para a investigação de dinâmicas comunicativas, compartilhamento de conhecimento e formação de grupos em ambientes digitais. No entanto, a natureza informal, ruidosa e desestruturada dos textos nessas plataformas impõe desafios metodológicos significativos para análises quantitativas e qualitativas de linguagem. Esta dissertação propõe e apresenta o Comid, uma ferramenta computacional desenvolvida para o pré-processamento, organização e análise de dados textuais provenientes de comunidades do Reddit. O Comid integra métodos avançados de limpeza textual, normalização linguística, geração de corpora, análise de tópicos e agrupamento de interações, oferecendo um pipeline robusto e replicável para pesquisadores interessados em estudos de comunicação mediada por computador. A ferramenta permite a seleção e filtragem criteriosa de conteúdos com base em características estruturais (como tamanho do texto e nível de interação), bem como a organização de conversações por tópicos e períodos de tempo. Além disso, incorpora técnicas de extração de unigramas, bigramas e frases, com cálculo de associações estatísticas, possibilitando análises exploratórias e confirmatórias sobre as dinâmicas discursivas das comunidades analisadas. Esta dissertação contribui metodologicamente ao campo dos estudos de comunidades online, oferecendo uma solução flexível, extensível e alinhada às boas práticas de ciência de dados para a análise de grandes volumes de interações textuais.",
+    "palavras_chave": [
+      "API",
+      "Análise de Comunidades Online",
+      "Análise de Conversação",
+      "Comid",
+      "Modelação de Tópicos",
+      "NLP",
+      "Python",
+      "Reddit"
+    ],
+    "areas": [
+      "Ciência de Dados",
+      "Inteligência Artificial",
+      "Processamento de Linguagem Natura (NLP)",
+      "Redes Sociais",
+      "Tecnologia e Desenvolvimento de Software"
+    ],
+    "tecnologias": [
+      "Big Data",
+      "Data Mining",
+      "Python",
+      "WebAPI"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "Cost reduction and optimization in cloud environments are crucial for organizati",
+    "autores": "jpcamatos31@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Cost reduction and optimization in cloud environments are crucial for organizations seeking to maximize operational efficiency while maintaining competitiveness in a rapidly evolving digital landscape. This thesis explores cloud optimization strategies, focusing on how organizations can effectively manage resources to minimize waste and optimize performance. Various tools, methods, and practices are highlighted in this type of environment that contribute to cost reduction, while ensuring scalability, security, and compliance. By implementing effective cost management practices, organizations not only improve their financial health but also enhance their capacity for innovation, contributing to long-term sustainability and growth.",
+    "palavras_chave": [
+      "Azure",
+      "Infraestrutura"
+    ],
+    "areas": [
+      "Tecnologia e Desenvolvimento de Software"
+    ],
+    "tecnologias": [
+      "Azure"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "The topic of energy consumption has gained traction in recent years, as has envi",
+    "autores": "goncalocabeleira123@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "The topic of energy consumption has gained traction in recent years, as has environmental sustainability, especially when it comes to machine learning algorithms and their massive usage of resources, prominently during training. However, most data scientists do not have the knowledge or the conduct to try and solve this issue, leading to an over-exhaustion of resources and longer development times. Professionals across the globe are worried about the negative impacts these huge cost sinks can have on future generations and the future of research and development of new technologies. This paper proposes a Python software package designed to enhance the efficiency of machine-learning workflows by estimating the execution time of code within Jupyter Notebooks. This package enables data scientists to optimize their code for reduced runtime and energy consumption by providing real-time insights into computational costs. This approach contributes to the broader goal of sustainable machine learning by promoting resource-efficient practices in model development and experimentation.",
+    "palavras_chave": [
+      "Carbon Emissions",
+      "Code Carbon",
+      "Energy Consumption",
+      "Python"
+    ],
+    "areas": [
+      "Ciência de Dados",
+      "Tecnologia e Desenvolvimento de Software"
+    ],
+    "tecnologias": [
+      "Code Carbon",
+      "Microsoft Visual Studio",
+      "Python"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "A evolução dos sistemas de autenticação forte tem sido crucial para a proteção d",
+    "autores": "jilsonbenjamim@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "A evolução dos sistemas de autenticação forte tem sido crucial para a proteção de dados sensíveis e o combate ao acesso não autorizado em plataformas digitais. Esta dissertação explora a análise e implementação de soluções de autenticação multifatorial (MFA), com foco no uso de SMS, OTP e WebAuthn. A pesquisa examina como essas tecnologias de autenticação evoluíram ao longo do tempo e como podem ser aplicadas de maneira eficaz em diferentes contextos, desde locais com infraestrutura limitada até ambientes com infraestrutura avançada. O estudo propõe soluções que equilibram segurança e usabilidade, permitindo a adaptação das tecnologias de autenticação para diferentes níveis de acesso à TI e de letramento digital, assegurando proteção sem comprometer a experiência do usuário.",
+    "palavras_chave": [
+      "Analfabetismo digital",
+      "Autenticação forte",
+      "MFA",
+      "OTP",
+      "Segurança da informação",
+      "webauthn"
+    ],
+    "areas": [
+      "Cibersegurança"
+    ],
+    "tecnologias": [
+      "AWS",
+      "HTML",
+      "JavaScript",
+      "Laravel",
+      "PHP",
+      "Tailwind CSS"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "A deteção de ataques de phishing tornou-se um desafio crescente, devido à consta",
+    "autores": "joao.tiago.duraes@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "As palavras, transformação digital (TD) resumem um movimento de transformação tecnológica que decorre há várias décadas, com as empresas a integrarem tecnologias digitais nos seus processos criativos. A pandemia da COVID-19 acelerou essa adoção e expôs as vulnerabilidades de setores intensivos em contacto com clientes, como o turismo, hotelaria e restauração (THR). A TD tornou-se um imperativo estratégico para as empresas, independentemente da sua dimensão ou setor de atividade. Em Portugal, onde o turismo representa 7.3% do PIB, as micro, pequenas e médias empresas (PMEs), que representam 99.9% do tecido empresarial nacional, enfrentam desafios específicos na implementação de projetos de TD, apesar da sua importância na economia. O presente estudo visa identificar boas práticas, dificuldades e oportunidades relacionadas com a transformação digital nestes setores, contribuindo para o desenvolvimento económico e digital do município do Barreiro. A pesquisa centra-se em identificar as melhores práticas, os fatores que influenciam o sucesso ou fracasso da TD, e o impacto das políticas públicas locais de digitalização. A pergunta central que orienta o estudo é: \"Quais as melhores práticas de transformação digital adotadas por PMEs do setor do turismo, hotelaria e restauração no município do Barreiro, e que fatores influenciam o seu sucesso ou fracasso?\" Para responder a esta pergunta, optou-se por uma abordagem mista, que combina a revisão sistemática da literatura segundo o modelo PRISMA, com um estudo exploratório de múltiplos casos no Barreiro. Os dados são recolhidos por meio de entrevistas semiestruturadas a gestores e especialistas, e um questionário com escala de Likert para avaliar a maturidade digital das empresas. A análise dos dados íntegra técnicas qualitativas e quantitativas, com triangulação para validar os resultados. O estudo pretende contribuir para a literatura ao preencher lacunas sobre a TD em PMEs do THR em contextos regionais específicos, oferecendo recomendações práticas para empresas e políticas públicas. Palavras-chave: Transformação digital, PMEs, turismo, hotelaria, restauração, boas práticas.",
+    "palavras_chave": [
+      "Hotelaria",
+      "Restauração",
+      "Transformação Digital",
+      "Turismo"
+    ],
+    "areas": [
+      "Inovação",
+      "PMEs",
+      "Redes Sociais",
+      "Tecnologia da Informação",
+      "turismo"
+    ],
+    "tecnologias": [
+      "Google Charts",
+      "IA",
+      "Research Methodologies"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Olhando para os jogos de hoje, podemos observar um claro avanço em termos de rea",
+    "autores": "leandro-xy@hotmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Olhando para os jogos de hoje, podemos observar um claro avanço em termos de realismo com o uso de novas tecnologias como o Ray-Tracing, apesar de ser uma tecnologia que proporciona um nível de realismo bastante elevado, esta, tem também um custo de desempenho bastante elevado. Aqui propõem-se a criação de uma mini render engine, onde testamos um ambiente 3D de forma a verificar a qualidade de imagem e tempo de render entre estes dois sistemas existentes (SSR & Ray Tracing), e um sistema híbrido que junta ambas as técnicas de forma a tentar maximizar o desempenho e minimizar as falhas que ambas têm. Esta técnica passa pela criação de um render inicial de Screen-Space, a partir de aqui retiramos a informação de onde esta técnica inicial não consegue atuar, e aplica-se a técnica de Ray-Tracing por cima. Por final, realizar-se-á uma análise de performance e qualidade de imagem a estas 3 técnicas com o objetivo de determinar se esta técnica híbrida será viável para uso em engines de jogos.",
+    "palavras_chave": [
+      "Jogos"
+    ],
+    "areas": [
+      "Computação Gráfica",
+      "Computer Graphics"
+    ],
+    "tecnologias": [
+      "C++"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Com o crescimento da telemedicina como solução para cuidados de saúde à distânci",
+    "autores": "ricardo.goncalves252@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Com o crescimento da telemedicina como solução para cuidados de saúde à distância, surgem desafios significativos ao nível da segurança dos dados, escalabilidade dos sistemas e conformidade com regulamentações como o RGPD e a HIPAA. Esta dissertação propõe o desenvolvimento de uma framework baseada em containers e arquitetura de microsserviços, permitindo criar plataformas de telemedicina seguras, escaláveis e em conformidade legal. A solução permite o agendamento e realização de consultas remotas, gestão de dados clínicos sensíveis e adaptação a diferentes especialidades médicas, garantindo robustez técnica e confiança para profissionais e pacientes.",
+    "palavras_chave": [
+      "Aplicação Web",
+      "HIPAA",
+      "Microsserviços",
+      "RGPD",
+      "Telemedicina"
+    ],
+    "areas": [
+      "Inovação",
+      "Tecnologia da Informação",
+      "Tecnologia e Desenvolvimento de Software",
+      "saúde"
+    ],
+    "tecnologias": [
+      "Docker",
+      "PostgreSQL",
+      "Ruby on Rails"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "This proposal entitled \"\"6G: Impact analysis and new business models in the 5th ",
+    "autores": "gilsonsf2008@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "This proposal entitled \"\"6G: Impact analysis and new business models in the 5th Industrial Revolution\"\" aims to investigate the impact of the new 6G generation and its future evolutions in the context of virtualization, briefly highlighting its technical advances, potential applications, ethical challenges and implications in the economic, social and government sectors. 6G is planned for 2030, in which it largely supplants the standards of the current generation, as it integrates with AI, quantum computing, sustainability, ultra-fast connectivity and very low latency, enabling immersive and interactive digital experiences in the context of the Metaverse and much beyond. The work starts from an introduction to the evolutions of mobile networks, from 1G to 6G, through analog, digital transformations and changes in connectivity patterns and services. Notably 6G emerges as an infrastructure capable of supporting disruptive advances, such as holographic communication, neural networks and bio-interfaces, Internet of the Senses and high- speed services including spatial connectivity interactions. In addition, elements such as security, privacy, ethics and sustainability are highlighted as crucial challenges to ensure the reliability and viability of this global transformation. The research proposes an interdisciplinary approach, using innovation diffusion model (DOI) and PRISMA methodology for systematic review, in addition to roadmapping and modeling for prospective scenario. The study addresses the technical requirements, new business models, regulations and ethical impacts, also proposing frameworks aimed at compatibility between technology and strategic sectors. The central point included digital to virtual convergence, the transition to smart networks with AI, and the proposal was the creation of a holistic analysis model for global virtual transformation.",
+    "palavras_chave": [
+      "6G",
+      "Gestão da Informação",
+      "Informação",
+      "Inovação",
+      "Inteligência Artificial",
+      "Internet das Coisas",
+      "Transformação",
+      "Transformação Digital",
+      "Virtual"
+    ],
+    "areas": [
+      "Artificial Intelligence",
+      "Cibersegurança",
+      "Gestão",
+      "Inovação",
+      "Management",
+      "Segurança Informática",
+      "Tecnologia da Informação",
+      "Telecomunicações",
+      "Wireless communication"
+    ],
+    "tecnologias": [
+      "6G",
+      "Bases de Dados",
+      "Big Data",
+      "Blockchain",
+      "Deep learning",
+      "Entity Framework",
+      "Google Charts",
+      "Google Drive",
+      "IA",
+      "Jira",
+      "LLM",
+      "Machine Learning",
+      "RGPD",
+      "Realidade Aumentada",
+      "Research Methodologies",
+      "Web"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 4
+  },
+  {
+    "titulo": "Extreme wildfires are increasingly hazardous, particularly plume-dominated fires",
+    "autores": "afonso.oliveira@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Extreme wildfires are increasingly hazardous, particularly plume-dominated fires, which exhibit unpredictable behavior due to their self-sustaining convective columns. Despite their significance, these fires remain poorly understood, hindered by limited observational data and fragmented remote sensing approaches. This paper proposes an Artificial Intelligence-based method adaptive framework for real-time detection and characterization of plume-dominated wildfires using satellite and aerial imagery. The framework focuses on three critical aspects: fire intensity, vertical plume development, and rotational motion. Leveraging satellite data, alongside aerial datasets, the methodology dynamically adapts to available data to ensure accurate assessments. The final output is a risk-graded map identifying zones of active or potential plume-dominated activity, and a deeper characterization of the plume internal mechanisms. The proposed framework has significant potential for improving wildfire prediction, management, and mitigation strategies, contributing to improved safety and resource allocation in wildfire-prone regions.",
+    "palavras_chave": [
+      "Fogos",
+      "Mapas Multiespectrais",
+      "Modelação",
+      "Simulação",
+      "Wildfires"
+    ],
+    "areas": [
+      "Artificial Intelligence",
+      "Inteligência Artificial",
+      "Sustentabilidade",
+      "Tecnologias Geoespaciais",
+      "ambiente",
+      "sociedade"
+    ],
+    "tecnologias": [
+      "Deep learning",
+      "Python"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "This study proposes an innovative Rating Model for Information Systems, develope",
+    "autores": "msaraiva88@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "This study proposes an innovative Rating Model for Information Systems, developed through long-term research on organizational best practices and widely adopted frameworks, such as ITIL, COBIT, MOF, and ISO9001. A comprehensive state-of-the-art analysis highlighted the absence of specific ratings for Information Systems, prompting a review of established models in areas like finance (Standard & Poor’s) and cybersecurity (BitSight). The methodology combined a systematic literature review, analysis of case studies on framework implementation outcomes, and primary data collection through questionnaires and interviews with organizational managers. This process led to the development of equations and reference models, supporting the proposed rating as a practical tool for assessing and continuously improving organizational Information Systems.",
+    "palavras_chave": [
+      "Framework",
+      "Gestão de Empresas",
+      "Gestão de Sistemas de Informação",
+      "Sistemas de Informação"
+    ],
+    "areas": [
+      "Ciência de Dados",
+      "Management",
+      "empresarial",
+      "gestão"
+    ],
+    "tecnologias": [
+      "Big Data",
+      "CSS",
+      "Data Mining",
+      "HTML",
+      "Machine Learning",
+      "Python"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "The main contribution of the research work will be focused on development of sch",
+    "autores": "jorge.leiria.pires@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "The main contribution of the research work will be focused on development of schemes to detect if someone is at risk of falling or has fallen. This work will strive to respond to several questions, such as: • How to detect if a person has fallen? • Are there any off-the-shelf devices that could be employed to prevent/detect falls? • How to improve detection performance, regarding precision, complexity and/or energy costs, without requiring expensive devices? • Will it be possible to process accelerometer’s collected data on the local device itself, using deep learning algorithms to prevent/detect falls, without having to send it to a remote server?",
+    "palavras_chave": [
+      "Doutoramento em informática – novos media e sistemas ubíquos",
+      "Quedas"
+    ],
+    "areas": [
+      "Artificial Intelligence",
+      "Tecnologia da Informação"
+    ],
+    "tecnologias": [
+      "C++",
+      "Machine Learning",
+      "Matlab",
+      "Programação",
+      "Python"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "The expanding complexity of modern 3D games places increasing demands on develop",
+    "autores": "diogo.andrade@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "The expanding complexity of modern 3D games places increasing demands on developers, particularly in area and level design. Initial level prototyping faces pressure for early completion as it sets the stage for subsequent engineering and artistic tasks. Addressing this challenge, we introduce a suite of algorithms aimed at streamlining the creation of 3D environments, with a specific focus on enhancing efficiency during the greyboxing phase of level design. The goal is to equip level designers with tools that enable rapid iteration and acceleration of this crucial stage. The first of these algorithms is dedicated to metadata extraction from human-modeled triangle meshes. It meticulously identifies key features such as entry/exit points, navigation lines, and structural frameworks. This process equips designers with a comprehensive understanding of each geometric element’s design and potential function within the environment. The second algorithm introduces mesh deformation capabilities, considering the structural characteristics of each element. This adaptation allows for versatile topological modifications, reducing the reliance on extensive artistic input and streamlining the component adaptation process. The final algorithm focuses on integrating these geometric elements into a user-defined graph. This graph, formed of 3D points interconnected by probabilistic links, acts as the foundational blueprint for environment assembly. It aligns the geometric elements to ensure spatial coherence and structural integrity within the generated environment. Collectively, these algorithms represent an advancement in early-stage game environment design, emphasizing ease of use and minimal integration effort, they offer designers an ideation and prototyping tool.",
+    "palavras_chave": [
+      "Geração Procedimental de Conteúdos",
+      "Jogos",
+      "design de níveis",
+      "geometria computacional",
+      "jogos digitais"
+    ],
+    "areas": [
+      "Computação Gráfica",
+      "Geometria Computacional",
+      "Geração Procedimental de Conteúdo",
+      "Inteligência Artificial"
+    ],
+    "tecnologias": [
+      "C#",
+      "Unity"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "The macro question of the research proposal is to provide security computing on ",
+    "autores": "a22404428@alunos.ulht.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "The macro question of the research proposal is to provide security computing on IoT devices in a home ecosystem, under the supervision from your Internet Service Provider (ISP). To this end, the ISP must have technical conditions to monitor the IoT device. However, the client of this ISP does not accept access to the device. afraid that the ISP will access the private and private data that the device IoT may contain. Between the two, client and ISP, there may be a possible attack due to, for example, to a vulnerability that is unknown to the customer and that the ISP can to fight. This dilemma between the parties is current and needs to be investigated to propose ways to access the IoT device by the ISP for the purposes of: – monitoring a possible attack, – vulnerability analysis and – mitigation in the event of a security breach that may compromise, in addition to the client's other IT and/or IoT equipment, the ISP IT infrastructure.",
+    "palavras_chave": [
+      "ISP",
+      "IoT",
+      "Segurança em redes",
+      "ameaça",
+      "doméstico",
+      "smart homes",
+      "vulnerabilidade"
+    ],
+    "areas": [
+      "Cibersegurança",
+      "Segurança Informática"
+    ],
+    "tecnologias": [
+      "AWS",
+      "Android",
+      "Arduino",
+      "Azure",
+      "IPSEC",
+      "IPv6",
+      "Maltego",
+      "Python",
+      "Shodan"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "This thesis presents a comprehensive approach to text clustering, an important t",
+    "autores": "petukhova.alina@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "This thesis presents a comprehensive approach to text clustering, an important technique for organising and analysing large volumes of textual data. It begins by introducing the TextCL package, which provides advanced text preprocessing and novel outlier detection methods not previously available in Python, thereby enhancing the quality of input data for various Natural Language Processing (NLP) tasks. The study then proceeds with creating the Multilabelled News Dataset (MN-DS) dataset, which illustrates the effective application of the text clustering pipeline on a custom, manually labelled dataset. This dataset also serves as an essential benchmark for news clustering, allowing for an exploration of the hierarchical nature of the labels and their impact on clustering results. Finally, the thesis compares traditional text embeddings like Term Frequency – Inverse Document Frequency (TFIDF) and Bidirectional Encoder Representations from Transformers (BERT)-family embeddings with those generated by Large Language Models (LLMs). Extensive experiments across multiple text datasets show that LLM embeddings significantly improve the capture of semantic relationships within documents, resulting in more accurate and meaningful clustering outcomes. However, the findings indicate that techniques such as increasing model dimensionality and applying summarisation do not always enhance clustering efficiency, emphasising the need for careful consideration in practical applications. This research contributes to fields such as topic modelling and information retrieval by providing a robust framework for text clustering using state-of-the-art embedding techniques.",
+    "palavras_chave": [
+      "Natural Language Processing",
+      "Text clustering",
+      "Large Language Models",
+      "Outlier detection",
+      "Text preprocessing"
+    ],
+    "areas": [
+      "Ciência de Dados e Inteligência Artificial"
+    ],
+    "tecnologias": [
+      "Deep learning",
+      "Python"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "Apply Deep learning techniques to improve image segmentation tasks and model dep",
+    "autores": "preyesse.arquissandas@ulht.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Apply Deep learning techniques to improve image segmentation tasks and model deployment into resource-constrained devices.",
+    "palavras_chave": [
+      "Compression",
+      "Deep Learning",
+      "Edge Computing",
+      "Image Segmentation",
+      "Pruning",
+      "Quantization"
+    ],
+    "areas": [
+      "Computer Vision",
+      "saúde"
+    ],
+    "tecnologias": [
+      "Arduino",
+      "Bases de Dados",
+      "Deep learning",
+      "ESP8266",
+      "Machine Learning",
+      "Matplotlib",
+      "NumPy",
+      "Pandas",
+      "PyTorch",
+      "Python",
+      "SQLite",
+      "Sklearn",
+      "TensorFlow",
+      "Windows"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "Patient feedback is a crucial component in identifying areas of improvement and ",
+    "autores": "luis.osorio@ontop.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Patient feedback is a crucial component in identifying areas of improvement and enhancing service quality in healthcare. However, manual analysis of a large volume of reviews is challenging. This paper proposes a novel framework and software for sentiment analysis and topic modeling with the goal of automating this process, providing a more efficient method for data extraction and facilitating informed decision-making. The Google reviews dataset, a rich source of patient feedback, is used for this purpose. We present findings from related research to identify potential strategies for implementing this framework. The ultimate goal is to understand patient sentiments, identify common complaint topics, and highlight positive aspects of healthcare centers. This approach will provide valuable insights that are essential for the continuous improvement and success of healthcare centers.",
+    "palavras_chave": [
+      "Doutoramento em informática – novos media e sistemas ubíquos"
+    ],
+    "areas": [
+      "Ciência de Dados e Inteligência Artificial"
+    ],
+    "tecnologias": [
+      "Python"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "This doctoral thesis focuses on enhancing the security of Supervisory Control an",
+    "autores": "valevcan@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "This doctoral thesis focuses on enhancing the security of Supervisory Control and Data Acquisition (SCADA) systems within Industrial Control Systems (ICS) by simulating cyber attacks using Generative AI and developing anomaly detection mechanisms based on Federated Learning (FL). The study generates synthetic yet realistic cyber attacks using generative models (e.g., GANs, LLMs) and trains decentralized, privacy-preserving anomaly detection models across different SCADA process segments. The proposed approach is evaluated using open-source datasets (SWaT,), employing a process-based FL architecture. The results demonstrate that Federated Learning can effectively detect anomalies while preserving data privacy, offering a robust framework for enhancing SCADA system security.",
+    "palavras_chave": [
+      "Cybersecurity",
+      "Data Analysis",
+      "Inteligência Artificial",
+      "IoT",
+      "Machine Learning em tempo real"
+    ],
+    "areas": [
+      "Artificial Intelligence",
+      "Segurança Informática"
+    ],
+    "tecnologias": [
+      "Deep learning",
+      "Machine Learning",
+      "Matlab",
+      "Matplotlib",
+      "Python",
+      "TensorFlow"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "The research focus on advancing the implementation and performance metrics of si",
+    "autores": "a22211643@alunos.ulht.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "The research focus on advancing the implementation and performance metrics of simultaneous wireless information and power transfer, by considering approaches to improve the duality of the system. Achieving maximum energy harvesting and reliable information decoding in various indoor and outdoor environments is stipulated. Also, the research expects to introduce suitable modulation techniques that would improve the overall performance of SWIPT.",
+    "palavras_chave": [
+      "Simultaneous wireless information and power transfer",
+      "UnmannedAerialVehicle (UAV)"
+    ],
+    "areas": [
+      "Telecomunicações",
+      "Wireless communication"
+    ],
+    "tecnologias": [
+      "Matlab"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "This research proposes a sustainable, high-speed communication framework using U",
+    "autores": "hanojhansingh@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "This research proposes a sustainable, high-speed communication framework using UAV-assisted hybrid Terahertz (THz) and Visible Light Communication (VLC) technologies for integrated terrestrial and underwater wireless networks. Leveraging UAVs as mobile relays, the system overcomes distance and attenuation constraints of THz and VLC links, ensuring robust connectivity across air, surface, and submerged environments. A novel dual-color OOK modulation scheme is introduced to enhance transmission efficiency, particularly for underwater VLC links where range and scattering pose unique challenges. The project further incorporates Simultaneous Lightwave Information and Power Transfer (SLIPT) and nonlinear energy harvesting models to enable autonomous UAV and surface relay operations. Performance will be evaluated through analytical modeling and simulation, focusing on BER, outage probability, and energy optimization. This work addresses pressing challenges in environmental monitoring, oceanic exploration, and emergency communications, contributing to the development of next-generation sustainable, self-powered, and high-data-rate communication systems.",
+    "palavras_chave": [
+      "Autonomous Underwater Vehicle (AUV)",
+      "Drone",
+      "UnderwaterWireless Optical Communications(UWOC)",
+      "UnmannedAerialVehicle (UAV)"
+    ],
+    "areas": [
+      "Wireless communication"
+    ],
+    "tecnologias": [
+      "Matlab"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Virtual environments (VEs) are powerful tools, widely used in computer engineeri",
+    "autores": "f7957@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Virtual environments (VEs) are powerful tools, widely used in computer engineering, not just to engage users, but to transform how people learn, feel, and act. This technology offers a bold new way to foster empathy and drive pro-environmental behavior. Yet, one critical factor remains underexplored: the role of presence in shaping these emotional and behavioral outcomes. This project investigates how varying levels of presence in VEs affect empathy, focusing on sharks and marine conservation. In collaboration with marine biology experts for scientific accuracy, simulations will be created with different degrees of immersion by altering realism and interactivity levels (2D, 3D, Virtual Reality, Immersive Virtual Reality) By analyzing how these factors impact empathetic responses, the study aims to uncover key design principles. The results will help create experiences that encourage meaningful learning and inspire real-world change.",
+    "palavras_chave": [
+      "Empatia",
+      "Presença",
+      "Realidade virtual",
+      "Simulação"
+    ],
+    "areas": [
+      "Virtual Reality"
+    ],
+    "tecnologias": [
+      "Unity"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Autonomous navigation of vehicles is a hot topic in the science community and is",
+    "autores": "ricardo.santos@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Autonomous navigation of vehicles is a hot topic in the science community and is expected to be achieved in the near future. However, the majority of current commercial vehicles (terrestrial or aerial) depend mainly on satellite signals to estimate their position. Thus, in scenarios where these signals are unavailable, the vehicle may not be able to estimate its position, possibly resulting in severe accidents with high material cost and perhaps casualties. Thus, this research’s main objective is to go beyond the state-of-the-art (SotA) and develop algorithms capable of navigating vehicles in real-time in complex scenarios with high accuracy and trustworthiness. To do so, vehicles will be exploited as sensing platforms to maximize the acquired information about an environment of interest, resorting to both on-board sensing sources and (in)direct communication with other nearby vehicles and/or infrastructure.",
+    "palavras_chave": [
+      "Autonomous Navigation"
+    ],
+    "areas": [
+      "Artificial Intelligence"
+    ],
+    "tecnologias": [
+      "C++",
+      "Machine Learning",
+      "Python"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "Cybersecurity threats are increasingly frequent and complex, yet the average use",
+    "autores": "afmcosta@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Cybersecurity threats are increasingly frequent and complex, yet the average user and even IT professionals often lack timely and accurate guidance during an incident. General-purpose chatbots powered by large language models (LLMs) offer impressive general knowledge capabilities but fall short in providing domain-specific, contextual, and trustworthy responses during security events. This thesis proposes the development of a conversational AI system, specialized in cybersecurity, capable of offering real-time, actionable responses based on a validated and dynamic knowledge base. The system will integrate retrieval-augmented generation (RAG), expert-curated playbooks, and contextual inference to assist users in detecting, understanding, and mitigating cyber threats.",
+    "palavras_chave": [
+      "Inteligência Artificial",
+      "LLM",
+      "Privacidade e segurança dos dados"
+    ],
+    "areas": [
+      "Artificial Intelligence",
+      "Segurança Informática"
+    ],
+    "tecnologias": [
+      "Python"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "Tabletop Role-Playing Games (TTRPGs) are board games that offer unique game play",
+    "autores": "ana.pinha@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "O crescimento do e-commerce trouxe um aumento significativo nas avaliações, que desempenham um papel determinante nas decisões de compra dos consumidores. Contudo, o fenómeno das fake reviews compromete a confiança nas plataformas digitais, prejudicando tanto os consumidores como as empresas. Este trabalho propõe a aplicação de técnicas de aprendizagem automatizada, como o algoritmo K-Means, e de modelos avançados baseados em redes neuronais, com o objetivo de identificar padrões associados a avaliações falsas. Recorrendo a um conjunto de dados da Amazon, recolhido entre 1996 e 2023, serão analisadas métricas comportamentais e linguísticas que possibilitam a distinção entre avaliações genuínas e falsas. Este estudo sublinha a relevância de métodos inovadores e integrados para enfrentar os desafios da manipulação de avaliações, promovendo um ambiente de comércio digital mais mais transparente e fiável.",
+    "palavras_chave": [
+      "Avaliação automatizada",
+      "Python"
+    ],
+    "areas": [
+      "Ciência de Dados",
+      "Ciência de Dados e Inteligência Artificial"
+    ],
+    "tecnologias": [
+      "Python",
+      "Sklearn"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "Este trabalho propõe o desenvolvimento da aplicação mobile AdvenTour, focada no ",
+    "autores": "goncaloneves0207@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "When confronted with multiple people interacting with each other there exists a need to separate and identify multiple conversations to participate in them. As online interactions increase, the ability to do the same within complex digital environments becomes critical for ensuring clarity and effective communication and analysis of dialogue. We address this challenge by analyzing the current best practices used, attempting potential improvements and studying the use of machine learning techniques to enhance the accuracy and efficiency of conversation disentanglement.",
+    "palavras_chave": [
+      "Python",
+      "machine Learning"
+    ],
+    "areas": [
+      "Ciência de Dados"
+    ],
+    "tecnologias": [
+      "Python"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "Ferramenta de anotação personalizada de dados. Em diversas áreas de machine lear",
+    "autores": "fabiofalopes@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "(Continuidade de TFC de 2023/24) \"IoT-Internet of Things Lab\" baseado em duas maquetes funcionais com o objetivo de materializar a Internet das Coisas em algo \"físico e real\". Demonstrando que o valor do conceito se materializa através de sinergias obtidas num ecossistema de tecnologias integradas e é maior que as partes separadamente. Desafio – Frontend (Operacional & Dashboarding) – Analítica e Machine Learning – Mobile com integração de realidade aumentada",
+    "palavras_chave": [
+      "Base de Dados",
+      "Dashboard",
+      "Inteligência Artificial",
+      "IoT",
+      "Sustentabilidade"
+    ],
+    "areas": [
+      "Inteligência Artificial",
+      "Sustentabilidade",
+      "Wireless communication",
+      "empresarial"
+    ],
+    "tecnologias": [
+      "Arduino",
+      "Flutter",
+      "MySQL"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Acredito profundamente que o tempo é o nosso recurso mais valioso e limitado, e ",
+    "autores": "franciscobarrososousa@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "O presente Trabalho Final de Curso (TFC) tem como objetivo demonstrar a construção de uma loja online, Infinity, através da utilização da plataforma Shopify. Pretende-se criar uma solução capaz de acompanhar o crescimento do mercado de e-commerce, bem como oferecer uma proposta inovadora que combina a personalização da loja, através da integração de novas tecnologias como a Inteligência Artificial, e a incorporação de redes sociais, para fortificar a relação com o cliente. O relatório demonstra uma análise detalhada do mercado de e-commerce comparando soluções existentes, como: Shopify, Woocommerce, VTEX, Salesforce Commerce Cloud e Adobe Commerce. Recorrendo aos dados obtidos nesta análise, identificam-se lacunas e oportunidades que justificam a relevância e pertinência do projeto. Para uma melhor abordagem do problema acima referido foram combinados diversos conceitos adquiridos ao longo da licenciatura, relacionados com o planeamento de projeto, desde a recolha e análise de requisitos até à realização de testes de validação.",
+    "palavras_chave": [
+      "Inteligência Artificial",
+      "Redes Sociais",
+      "e-commerce"
+    ],
+    "areas": [
+      "Inteligência Artificial"
+    ],
+    "tecnologias": [
+      "HTML"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "OBJETIVO: desenvolvimento de aplicações baseadas em plataforma lowcode. modelaçã",
+    "autores": "rodrigombrodrigues03@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Pretende-se desenvolver um conjunto alargado de plataformas de e-commerce B2C e B2B com integrações com redes sociais, Google ads, plataformas de pagamentos entre outros.",
+    "palavras_chave": [
+      "Aplicação web Cliente Fatura Fornecedor Produtos",
+      "Plataforma Web",
+      "WEB"
+    ],
+    "areas": [
+      "Computação Gráfica"
+    ],
+    "tecnologias": [
+      "HTML",
+      "HTTP Webservices",
+      "JSON",
+      "React"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 4
+  },
+  {
+    "titulo": "O projeto centra-se na modernização dos sistemas de radiocomunicações de uma ent",
+    "autores": "ricardogoncalves126@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "A inflação é um indicador económico crítico que afeta indivíduos, empresas e governos igualmente. Apesar da sua importância, muitas pessoas não têm uma compreensão clara de como a inflação é calculada e os fatores que contribuem para a mesma. O ob- jetivo deste projeto, i-Inflation, é desenvolver uma aplicação móvel e uma aplicação web que permita aos usuários colaborar e calcular com eficiência a inflação. A plataforma fornecerá ferramentas para diversas partes interessadas, detentores, incluindo economis- tas, decisores políticos e o público em geral, para se envolverem com dados de tempo real, de modo a melhorar a precisão dos cálculos de inflação e obter uma compreensão mais profunda das tendências económicas. O projeto consistirá em desenvolvimento frontend e backend, com ênfase em interfaces fáceis de usar, visualização de dados e colaboração em tempo real. Em última análise, o i-Inflation procura democratizar a análise económica, tornando os dados de inflação mais acessíveis e compreensíveis para um público mais amplo.",
+    "palavras_chave": [
+      "Aplicação Móvel",
+      "Aplicação Web",
+      "Desenvolvimento backend",
+      "Desenvolvimento de Software",
+      "Desenvolvimento frontend",
+      "Inflação"
+    ],
+    "areas": [
+      "Ciência de Dados e Inteligência Artificial",
+      "Economia e Finanças",
+      "Tecnologia e Desenvolvimento de Software"
+    ],
+    "tecnologias": [
+      "Ionic Framework",
+      "PostGreSQL",
+      "Reactjs",
+      "Spring Boot (Java)"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Este TFC, surge em parceria com a Faculdade de Medicina Veterinária da Universid",
+    "autores": "duartechen@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "A mineração de processos de negócio enfrenta desafios significativos de acessibilidade por parte de executivos não-técnicos, criando uma lacuna entre análises de dados complexos e a tomada de decisões estratégicas. Este trabalho tem como foco desenvolver uma plataforma que permita a gestão e questionar processos de negócio através de processamento de linguagem natural, facilitando insights críticos para executivos. A solução proposta utiliza Large Language Models (LLMs) para responder a informações existentes em processos de negócio contidos em documentos com formato (.csv) e (.xes), em diferentes línguas e com outros desafios da área de mineração de processos. A implementação inclui autenticação de utilizadores, ecrãs para ingestão de dados, serviços auxiliares para interagir com a plataforma, serviços para interagir com inteligência artificial generativa (GenAI), a criação de microsserviços em containers e a utilização de computação cloud. O sistema desenvolvido demonstra com sucesso a capacidade de permitir consultas em linguagem natural sobre processos de negócio, oferecendo operações CRUD para gestão de processos e deployment escalável em ambiente cloud. A plataforma prova ser eficaz na transformação de dados estruturados em insights acessíveis para utilizadores não-técnicos. Esta solução contribui para reduzir a lacuna entre a mineração técnica de processos e a acessibilidade executiva, estabelecendo uma base sólida para investigação futura em business intelligence aumentada por inteligência artificial. Este trabalho, nesta fase, assume que não é necessário aprofundar o tema da afinação do modelo escolhido nem a aquisição de dados sobre processos de negócio",
+    "palavras_chave": [
+      "Large Language Models",
+      "business intelligence",
+      "computação cloud",
+      "csv",
+      "dados estruturados",
+      "inteligência artificial generativa",
+      "microsserviços",
+      "mineração de processos de negócio",
+      "processamento de linguagem natural",
+      "tomada de decisão",
+      "transformação de dados",
+      "xes"
+    ],
+    "areas": [
+      "Tecnologia da Informação"
+    ],
+    "tecnologias": [
+      "APIs Rest",
+      "Application Server",
+      "ChatGPT/Bart",
+      "OpenA",
+      "Web Serve",
+      "django"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 4
+  },
+  {
+    "titulo": "Automação de testes para RPA em desenvolvimento e pós produção",
+    "autores": "amcalin05@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Em estreita colaboração com o Centro de Medicina de Reabilitação de Alcoitão pretende-se apoiar a decisão quanto à gestão de recursos, de forma a otimizá-los. Neste TFC, através de modelos de Machine Learning, pretende-se caracterizar e classificar os pacientes de forma a prever tempos de espera para internamento por patologia e serviço. Estes resultados ajudarão a melhorar a resposta ao atendimento do utente e apoiar a decisão por parte dos clínicos.",
+    "palavras_chave": [
+      "Alcoitão",
+      "Centro de Medicina de Reabilitação de Alcoitão (CMRA)"
+    ],
+    "areas": [
+      "saúde"
+    ],
+    "tecnologias": [
+      "Android",
+      "Machine Learning",
+      "Python"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "Este projeto detalha o desenvolvimento e implementação de um sistema inovador de",
+    "autores": "thedanielgranja@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "(Continuidade de TFC de 2023/24) \"IoT-Internet of Things Lab\" baseado em duas maquetes funcionais com o objetivo de materializar a Internet das Coisas em algo \"físico e real\". Demonstrando que o valor do conceito se materializa através de sinergias obtidas num ecossistema de tecnologias integradas e é maior que as partes separadamente. Desafio – Frontend (Operacional & Dashboarding) – Analítica e Machine Learning – Mobile com integração de realidade aumentada",
+    "palavras_chave": [
+      "IoT",
+      "Realidade Aumentada"
+    ],
+    "areas": [
+      "IOT"
+    ],
+    "tecnologias": [
+      "Arduino",
+      "MQTT"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Este projeto explora a aplicação da Internet of Things (IoT) na indústria, visa ",
+    "autores": "anarita.weng2002.04@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "O projeto \"Uber de Transporte de Mercadorias\" é uma plataforma digital inovadora desenvolvida para revolucionar o setor de transporte de mercadorias. Utilizando tecnologias avançadas como Spring Framework, PostgreSQL, Flutter e Google Maps API, a aplicação oferece uma solução eficiente, flexível e segura para conectar motoristas independentes a consumidores que necessitam de serviços de transporte. A plataforma destaca-se pela sua interface intuitiva, otimização de rotas em tempo real e autenticação segura via JWT. Com foco na sustentabilidade e eficiência operacional, este projeto visa transformar a logística de mercadorias, tornando-a mais acessível e adaptável às necessidades dos utilizadores.",
+    "palavras_chave": [
+      "Aplicação de transporte de mercadorias"
+    ],
+    "areas": [
+      "gestão"
+    ],
+    "tecnologias": [
+      "Flutter",
+      "Java",
+      "PostGreSQL",
+      "Postman"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "O projeto \"Uber de Transporte de Mercadorias\" é uma plataforma digital inovadora",
+    "autores": "betaniamariaqueta05@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "O uso de ferramentas de avaliação automática no meio académico em disciplinas introdutórias de programação, tem vindo a crescer nos últimos anos. Estas ferramentas fornecem ao aluno um feedback qualitativo e quantitativo imediato sobre o seu código, permitindo que o aluno corrija os seus erros incentivando a aprendizagem autónoma. Existem várias ferramentas de avaliações automáticas – Automáted Assessment Tool (AAT), que permitem esse acompanhamento, no entanto, maioritariamente destinam-se a cursos específicos ou aplicam linguagens especificas de conteúdos programáticos. A PANDORA pretende ser um AAT que reúne um conjunto funcionalidades que não se encontram reunidas em nenhuma ferramenta open source, como por exemplo: • Permitir a execução de projetos desenvolvidos em linguagem C e ser expansível para outras linguagens; • A criação de testes unitários de forma fácil • Disponibilizar um ranking de submissões através de critérios de pontuação, como por exemplo: número de testes passados, tempo de execução, número de submissões, memória usada, etc; • Submissões em grupos; disponibilizar toda a informação gerada sobre as últimas submissões de cada aluno. Esta plataforma foi desenvolvida em 2019 pelo Prof. Pedro Serra estando actualmente em produção e a ser utilizada em unidades curriculares na Universidade Lusófona de Humanidades e Tecnologias.",
+    "palavras_chave": [
+      "Plataforma inovadora",
+      "Trabalho Final de Curso (TFC), plataforma, gestão, docentes, discentes",
+      "plataforma"
+    ],
+    "areas": [
+      "empresarial",
+      "gestão"
+    ],
+    "tecnologias": [
+      "Django",
+      "MySQL",
+      "PhpMyAdmin"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "O Boxit é uma plataforma que pretende virtualizar redes de computadores com o pr",
+    "autores": "21705328@alunos.ulht.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Com o desenvolvimento do tema deste projeto procura-se criar as condições de controle biomédico que estão associadas a deslocações e eventuais quedas de participantes em práticas desportivas ou de pessoas que nas suas deslocações sofram eventuais quedas que possam vir a requerer a intervenção de responsáveis pelo seu bem estar e ainda de pessoa(s)/organizações que queiram desenvolver atividades associadas à prestação de auxilio. De igual modo e face ao crescente envelhecimento da população em geral e da portuguesa em particular, este universo de potenciais utilizadores requer a criação de condições para o acompanhamento dessas populações por parte dos seus cuidadores ou familiares e que não acarrete um custo significativo face à crescente vulgarização dos telemóveis de 4ª geração. Nesse sentido pensou-se que a junção de alguns equipamentos pode ser uma ferramenta útil nessa eventual situação de apoio. Assim à placa Arduino acrescida do módulo de comunicação Bluetooth, cujo nome comercial Bluno foram adicionados a placa Acelerómetro/Giroscópio e o cinto de batimento cardíaco da Medisana. Dos quais se fará uma descrição mais detalhada. Considera-se que se verificou uma ocorrência de queda sempre que os valores dos indicadores do Acelerómetro/Giroscópio indicarem que se alteraram os valores normais dos parâmetros e se estes parâmetro se mantiverem nesses valores por um período de tempo superior ao estabelecido como limite para situações normais e simultaneamente se verificar uma aceleração do número de batimentos cardíacos, fato associado normalmente a estas situações, a pessoa em causa requer uma intervenção de um cuidador ou responsável. Não foi possível desenvolver um complemento desta aplicação que poderia enviar uma mensagem para um telemóvel cujo número seria recolhido antecipadamente à situação que se pretende monitorizar.",
+    "palavras_chave": [
+      "Android",
+      "Arduino"
+    ],
+    "areas": [
+      "Telecommunications"
+    ],
+    "tecnologias": [
+      "Android",
+      "Arduino"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "O presente trabalho trata-se de uma plataforma de emprego online , que tem como ",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "O presente trabalho trata-se de uma plataforma de emprego online , que tem como o objectivo principal fazer a interação entre os jovens formados em determinadas áreas que ainda não se encontram inseridos no mercado de trabalho e as entidades patronais que procuram funcionários ou colaboradores para determinadas áreas dentro da sua organização. Tendo com um dos objectivos principais ser um meio de comunicação fiável entre as empresas e os candidatos, dando a oportunidade de ofertas de emprego que serão disponibilizadas no portal e contratação de funcionários que se encontram inscritos no portal. Para além da sua função como intermediário para contratação, ou procura de emprego, deverá também servir como centro de estatística de quadros angolanos provenientes de vários países bem como a nível nacional. O portal suporta quatro tipos de utilizadores: ● Candidato ● Empregado ● Visitante ● Administrador Existe uma área para cada tipo de utilizador onde cada um poderá gerir os seus dados . O Portal dispõe também de um BackOffice onde permite o utilizador Administrador gerir os dados do portal conforme apropriado através de diferentes tipos de funcionalidades tais como: gestão de dados, filtros, envio de mensagens, possibilidade de fazer download de ficheiros, submetidos pelos vários tipos de utilizadores, e fazer a estáticas gerais sobre o número de ofertas de emprego e utilizadores empregadores por cidades, bem como o número de candidatos por países.",
+    "palavras_chave": [
+      "BackOffice",
+      "Base de Dados",
+      "Candidatos",
+      "Emprego",
+      "Portal",
+      "Web"
+    ],
+    "areas": [
+      "sociedade"
+    ],
+    "tecnologias": [
+      "Bootstrap",
+      "HTML",
+      "MySQL",
+      "PHP"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "O presente relatório foi realizado em complemento do trabalho de final de curso ",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "A aplicação relatada neste relatório tem como objectivo o apoio à gestão corrente de Stock’s, Sócios e Viaturas da Associação Projecto Jovem. A Associação Projecto Jovem é uma Instituição Particular de Solidariedade Social que acolhe diariamente cerca de 30 jovens portadores de deficiência mental/motora. Tem como principal valência o Centro de Actividades Ocupacionais, tendo também a valência de Cantina Social para cerca de 20 famílias. Após tendo feito voluntariado nesta instituição, fiquei a conhecer as suas dificuldades informáticas, principalmente a nível da gestão de Stock’s, Sócios e Viaturas pois não existem muitas aplicações que possam fazer este tipo de gestão e que sejam, simultaneamente, de custo reduzido e eficientes. Nesta aplicação os utilizadores estão divididos por “Administradores” e “Não- Administradores” e, para além de todas as funções disponíveis, existe também um pequeno BackOffice onde se podem configurar Unidades de Medida, Armazéns, Dados da Instituição, etc. No FrontOffice, são permitidas as funções de gestão (criar, editar, remover e listar) para as entidades Sócio, Stock e Viatura, bem como também criar requisições de serviço automóvel e de aquisição de stock.",
+    "palavras_chave": [
+      "BackOffice",
+      "FrontOffice",
+      "Quotas",
+      "Requisição",
+      "Stock",
+      "Sócios",
+      "Utilizadores",
+      "Viaturas"
+    ],
+    "areas": [
+      "saúde"
+    ],
+    "tecnologias": [
+      "DomPDF",
+      "JavaScript",
+      "MySQL",
+      "PHP",
+      "Sublime Text 2",
+      "WampServer"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Resumo não disponível",
+    "autores": "joaopais29@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Com a proliferação das tecnologias e comunicações wireless, e a capacidade que estas têm de comunicar entre si e de gerar informação, torna-se essencial a existência de ferramentas que permitam gerir a crescente quantidade de informação gerada. Com esta ideia, a realização deste trabalho passa pela investigação e implementação de algumas dessas tecnologias. Os critérios utilizados na escolha das ferramentas foram a sua atualidade bem como a adoção por parte das empresas lideres nesta área. As plataformas escolhidas para o desenvolvimento deste projeto foram então o Apache Hadoop e o Apache Spark. Ao longo deste trabalho serão implementadas ambas as tecnologias num cluster de demonstração e serão exploradas as suas funcionalidades através da análise de dois tipos de ficheiros de log. Pôde-se verificar que ambas as plataformas demonstram características essenciais na gestão de grandes volumes de dados como a versatilidade, escalabilidade, performance, entre outras. Este trabalho é ainda suscetível de continuação pois não foram investigadas todas as potencialidades das plataformas Hadoop e Spark e apenas foi posto em prática num contexto de desenvolvimento.",
+    "palavras_chave": [
+      "Big Data",
+      "Hadoop",
+      "IoT",
+      "Spark"
+    ],
+    "areas": [
+      "Ciência de Dados"
+    ],
+    "tecnologias": [
+      "Apache",
+      "Big Data"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "O trabalho desenvolvido foi enquadrado no estudo da Arquitetura de Sistemas da A",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Este trabalho de fim de curso pretende construir um site web que mostra um catálogo de produtos e permite a sua compra. Os conteúdos ficam armazenados num SGBD. O catálogo tem consulta livre, ou seja, não requer autenticação, mas as encomendas são feitas apenas por utilizadores registados, que têm acesso a uma área reservada onde consultam o seu histórico de encomendas e contatam com a administração do site. Permite efetuar o registo no site para poder fazer compras, com acesso a todas as encomendas que foram feitas. Foram utilizados diagramas UML para expressar o levantamento funcional e restantes componentes de análise. Foi definido um diagrama Entidade Relacionamento para a BD. A programação foi efetuada em HTML, CSS, PHP e SQL. Recorri ao NetBeans IDE 8.0 e ao UMLet.",
+    "palavras_chave": [
+      "Catágolo",
+      "Enfermagem",
+      "Website"
+    ],
+    "areas": [
+      "saúde"
+    ],
+    "tecnologias": [
+      "CSS",
+      "HTML",
+      "PHP",
+      "SQL"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Até bem recentemente, os sites podiam ser construídos com uma largura fixa, como",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Chegando a este ponto do percurso académico, e enquadrando na nossa área de interesses a escolha do projecto final recaiu sobre o estudo do protocolo WebID, uma solução de Login Universal e Identidade na Web. O WebID, desenvolvido pelo W3C implementa uma infra-estrutura de autenticação. Trata-se de um protocolo de autenticação descentralizado, seguro, utilizando informações de perfil, bem como a camada de segurança SSL disponível nos browsers modernos. O webID é uma forma de identificar uma pessoa, empresa, organização ou outro agente usando um URI (UniformResourceIdentifier)",
+    "palavras_chave": [
+      "Login",
+      "Web"
+    ],
+    "areas": [
+      "gestão"
+    ],
+    "tecnologias": [
+      "Apache",
+      "FOAF + SSL"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Pensando em compartilhar minhas curiosidades sobre as relações existentes entre ",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Nowadays, the vast majority of business communications equipment is configurable by command line (CLI). In certain product ranges, almost all the interaction with the unit is made in this particular way. It is especially in this business context, that arises the need to automate certain tasks performed massively and in a repetitive execution. This work aimed to obtain an intuitive tool for minimally manage but fully automate tasks to interact with equipment or equipment groups that are configurable by command line. This solution should alleviate human resources in a way that they can dedicate their time and effort to more complex or motivating tasks, thus improving skills and optimizing time.",
+    "palavras_chave": [
+      "Abandono",
+      "Banca",
+      "Gestão do Relacionamento dos Clientes",
+      "Mineralização de Dados,",
+      "Modelos Preditivos"
+    ],
+    "areas": [
+      "Telecommunications"
+    ],
+    "tecnologias": [
+      "MySQL",
+      "PHP",
+      "WampServer"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Na sociedade designada por muitos como a “sociedade da informação”, a Informação",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Na sociedade designada por muitos como a “sociedade da informação”, a Informação constitui um factor primordial para qualquer processo de decisão organizacional. Os Sistemas de Informação tornam-se assim de importância vital para as organizações, que deles sempre dependeram. O tema principal deste projecto é criação de uma plataforma Web que irá permitir no caso dos clientes um rápido acesso ao ginásio e realizar diversas operações como marcar aulas, alterar os seus dados pessoais, cancelar aulas. Para o desenvolvimento da aplicação utilizaremos linguagens como Php, Html, MySQL.",
+    "palavras_chave": [
+      "PHP"
+    ],
+    "areas": [],
+    "tecnologias": [
+      "HTML",
+      "MySQL",
+      "PHP"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Resumo não disponível",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Hoje em dia o contexto empresarial está em constante mutação pelo que é necessária uma melhoria contínua dos processos de negócio. Esta necessidade pode ser cumprida de várias maneiras com o uso da tecnologia que está disponível hoje. A tecnologia permite que as organizações coloquem os seus processos de negócio num estado, mensurável e controlável. Isto dá-lhes não só uma grande oportunidade para optimizar os seus processos, mas também para fazer um melhor planeamento, localizar novas oportunidades, prever o imprevisível e, portanto, tirar o máximo retorno dos principais objectivos do seu negócio. Antigamente – na monitoria de processos de negócio antiga – se um hipermercado estava a fazer uma mega promoção na venda de refrigerantes e o stock se esgota-se uma hora após a abertura da loja. Como poderia o director de loja saber deste facto ainda antes do mesmo acontecer? Como poderia ele evitar isso? Provavelmente teria de ser informado pelo chefe de loja ou pelo responsável de armazém, ou poderia olhar para as diferentes aplicações e fazer as contas por si mesmo. Se o director tivesse uma visão global da loja em tempo real o problema teria sido detectado bem mais cedo e provavelmente ter-se-iam encomendado mais refrigerantes ao fornecedor para restabelecer stock’s. Hoje com a monitoria de processos de negócio (BAM) é possível monitorar qualquer processo na organização em tempo real. Esta monitorização acontece em todos os sistemas da organização dando assim aos gestores uma visão mais ampla e global de todo o processo assim como a toda a informação importante para seu negócio. Este trabalho é composto por um projecto de monitorização de um processo de negócio e o seu objectivo principal é acompanhá-lo nas suas diferentes fases e através de diferentes sistemas heterogéneos.",
+    "palavras_chave": [
+      "BAM",
+      "BizTalk",
+      "Monitoria de processos"
+    ],
+    "areas": [
+      "empresarial"
+    ],
+    "tecnologias": [
+      "NET",
+      "Microsoft BizTalk Server",
+      "Microsoft Office SharePoint Server"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "This work aims to create new billing reports layouts. It also aims to change the",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "A Engenharia de software é uma área do conhecimento da informática voltada para a especificação, desenvolvimento e manutenção de sistemas de software aplicando tecnologias e práticas da ciência da computação, gestão de projectos e outras disciplinas, com o objectivo de aumentar a organização, a produtividade e a qualidade de alguns aspectos da vida humana. Foi com base nestas premissas que optamos pelo desenvolvimento deste projecto como suporte à renovação de matrículas, quer a nível do ensino secundário quer a nível do ensino básico. Este projecto tem como objectivo a implementação de uma aplicação que irá servir de suporte para a renovação de matrículas a nível nacional. Através desta aplicação pretende-se que haja um melhoramento do processo no que diz respeito ao grau de segurança, fiabilidade e agilidade. A aplicação é desenvolvida sobre a tecnologia .NET recorrendo a várias linguagens de programação, nomeadamente PHP, AJAX e Javascript e Base de Dados MySQL. Esta aplicação será disponibilizada via browser.",
+    "palavras_chave": [],
+    "areas": [
+      "gestão"
+    ],
+    "tecnologias": [
+      "NET",
+      "AJAX",
+      "AJAX",
+      "AJAX",
+      "JavaScript",
+      "MySQL",
+      "PHP"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "O tema principal deste projecto é a criação de uma página Web de uma empresa de ",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Este trabalho foi desenvolvido no âmbito de uniformizar e informatizar todo o processo organizacional de escalonamento de duas grandes entidades – Centros de Saúde e Hospitais. O propósito deste trabalho, é o de construir um sistema de informação entre os principais intervenientes, com vista a uma prática simples e acessível com recurso às tecnologias disponíveis. Os requisitos impostos são os de gerir toda a informação entre os diferentes actores, tendo sempre como preocupação a confidencialidade e segurança dos mesmos",
+    "palavras_chave": [
+      "Base de Dados",
+      "Cloud Computing",
+      "Desnormalização",
+      "Refactorização",
+      "Windows Azure"
+    ],
+    "areas": [],
+    "tecnologias": [
+      "NET",
+      "PHP",
+      "XML"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Este projecto visa demonstrar a criação de um jogo Web. O jogo foi implementado ",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "A capacidade de distinguir e reconhecer acordes, notas e padrões de dedilhados de guitarra é uma das melhores qualidades que um guitarrista pode possuir. Além de aumentar a criatividade e sensibilidade musical do guitarrista também lhe permite transcrever músicas recorrendo somente à audição. Este trabalho tem assim como objectivo o desenvolvimento de uma aplicação simples e móvel para iPhone e iPod com esse mesmo fim. Ao contrário das aplicações disponíveis no mercado, esta, além de implementar técnicas que motivam e estimulam a aprendizagem, não parte do pressuposto que o utilizador já tem um ouvido musical minimamente desenvolvido. O que isto significa é que, nenhum acorde, nota ou padrão de dedilhado é avaliado antes de ser introduzido ao utilizador; introdução ao esta que inclui o som, notação e formação do mesmo. Por conseguinte, o utilizador consegue melhorar o seu ouvido musical mais rapidamente do que pelos meios convencionais.",
+    "palavras_chave": [
+      "Acordes",
+      "Música",
+      "Transcription",
+      "ear training",
+      "iPhone"
+    ],
+    "areas": [
+      "Música"
+    ],
+    "tecnologias": [
+      "Java"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Este documento é o relatório final de um projecto que foi realizado no âmbito da",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Este documento é o relatório final de um projecto que foi realizado no âmbito da cadeira de TFC (Trabalho Final de Curso) e tem como objectivo dar a conhecer a aplicação AncoraGes, o trabalho realizado e as diferentes fases do seu desenvolvimento. O nome da aplicação, AncoraGes foi decidido pelos membros do grupo, sendo apenas um adjectivo usado para referir a aplicação/projecto ao longo deste relatório. A AncoraGes foi criada com a finalidade de sistematizar e coordenar as acções necessárias para uma boa gestão de stock e economato de um grupo de clínicas/hospitais que partilhem esse material. O documento é constituído por 9 capítulos nos quais se apresenta todo o trabalho realizado, como também a organização dos intervenientes. No primeiro capítulo encontra-se o glossário, presente no relatório para que todas as palavras e termos menos comuns, utilizados ao longo do mesmo sejam explicados. O segundo capítulo consiste na introdução, na qual é explicado, de uma forma geral, em que consiste o projecto, o seu enquadramento a nível de empresas e da engenharia de software. Este encontra-se dividido em 5 subcapítulos, propósito do documento, empresa estudada, âmbito da aplicação, situação actual e a aplicação no âmbito da engenharia de software. O terceiro capítulo aborda a análise e modelação previamente efectuada para o sucesso deste projecto. Abordam-se desde a gestão de projecto, à aplicação utilizada, reuniões de acompanhamento, modelação geral à modelação da base de dados. Este capítulo é muito importante pois retrata, explica e demonstra o porquê de grande parte do tempo disponível para a realização deste projecto ter sido empregue nesta fase. No quarto capítulo é descrito todo o processo de desenvolvimento e escolhas feitas para este. É neste capítulo que se encontra uma descrição mais detalhada da aplicação, as configurações necessárias para que a aplicação possa ser usada, as tecnologias utilizadas, as melhores práticas escolhidas para a fase de desenvolvimento e os testes de utilizador. O quinto capítulo é a conclusão, que não é mais que uma descrição do que foi feito, do proveito obtido com a escolha desta aplicação e de tudo o que pode ser de certa forma analisado (pontos fortes do projecto) para futuras implementações. O sexto capítulo apresenta e descreve futuras e saudáveis actualizações que podiam ser feitas, como também pontos do projecto que poderiam ser reestruturados com a finalidade de melhorar a aplicação ou adaptar esta a outra empresa. Nos três capítulos seguintes, encontra-se a bibliografia, referências e anexos importantes e necessários para a execução deste projecto.",
+    "palavras_chave": [],
+    "areas": [
+      "gestão"
+    ],
+    "tecnologias": [
+      "ASPNET",
+      "C#",
+      "SQL Server",
+      "Sybas"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Nowadays, security awareness is on every industry agenda. Mitigating threats and",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "O presente relatório tem como âmbito principal a descrição da experiência de um aluno da Licenciatura em Informática de Gestão da Universidade Lusófona de Humanidades e Tecnologias de Lisboa dedicado e motivado a continuar os seus estudos e actividade profissional na área de informática e gestão da informação. No âmbito do projecto proposto para desenvolvimento de uma aplicação baseado em tecnologias web e de software livre, o aluno tinha como objectivo o aprofundar de conhecimentos anteriormente adquiridos no decorrer dos três anos lectivos que precederam a realização deste projecto e também prover a empresa Virgílio Neves – Electromóveis e Decorações de um sistema informatizado de gestão de stock, vendas e cobranças.",
+    "palavras_chave": [
+      "Gestão",
+      "Gestão de informação em lavanderia",
+      "Software"
+    ],
+    "areas": [
+      "gestão"
+    ],
+    "tecnologias": [
+      "ASPNET",
+      "Eclipse",
+      "MySQL",
+      "Notepad++"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Nas últimas décadas foram diversas as transformações ocorridas na sociedade: des",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Este trabalho consistiu na renovação e inovação do site e respectiva loja online da Socomol, Comércio, Importação e Exportação, Lda. Esta nova solução visa responder aos problemas encontrados pelo cliente e visa agilizar todo um processo de encomendas online no período escolar e tornar mais cómodo e tranquilo o inicio do ano lectivo.",
+    "palavras_chave": [
+      "Internet",
+      "Jogo, Aplicação, Website, Modos de Jogo, Questionários, BackOffice, Estatísticas",
+      "Portal",
+      "Web Services",
+      "Website"
+    ],
+    "areas": [
+      "gestão",
+      "saúde"
+    ],
+    "tecnologias": [
+      "Apache",
+      "MySQL",
+      "PHP",
+      "WampServer"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Resumo não disponível",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "A escolha deste projecto por parte do nosso grupo prende-se com o facto de, a nosso ver os sistemas de e-learning serem uma ferramenta bastante útil que cada vez mais começam a fazer parte do sistema de ensino devido à sua versatilidade e fácil aprendizagem, dando-nos assim a possibilidade de termos um contacto directo com a criação de uma ferramenta que possa ser ainda mais desenvolvida por futuros grupos e de futura utilidade na faculdade.",
+    "palavras_chave": [
+      "NET MVC"
+    ],
+    "areas": [
+      "gestão"
+    ],
+    "tecnologias": [
+      "NET"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Este projecto enquadra-se na indústria do mercado farmacêutico onde o cliente fi",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "O VoIP está actualmente no topo da lista de investimentos em tecnologia e constitui para muitos gestores empresariais uma fonte inequívoca de vantagens. Para muitas organizações, a sua principal vantagem consiste na utilização a custo reduzido de tecnologias apenas disponíveis em centrais e Call Centers dispendiosos. Outros reconhecerão a plenitude das vantagens da tecnologia, o que faz com que a transição para o VoIP esteja a ocorrer rapidamente à escala global.",
+    "palavras_chave": [
+      "VoIP"
+    ],
+    "areas": [
+      "gestão"
+    ],
+    "tecnologias": [
+      "VoIP"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Sistemas Help-Desk podem ser definidos como sendo um sector da empresa ao qual s",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Sistemas Help-Desk podem ser definidos como sendo um sector da empresa ao qual são endereçadas questões e onde são resolvidos problemas, tendo como principal característica a de ser um sistema facilitador de informações. A proposta deste trabalho é realizar a modelagem e o desenvolvimento de um sistema Help-Desk para a Empresa Tempus. Neste trabalho, são apresentados todos os conceitos e uma descrição da funcionalidade do sistema implementado, bem como a sua modelagem e todo o tipo de tecnologia utilizada.",
+    "palavras_chave": [
+      "Helpdesk",
+      "Qualidade de Serviço",
+      "Tecnologia"
+    ],
+    "areas": [],
+    "tecnologias": [],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "To provide the labor market with skilled resources is one of today’s main social",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "To provide the labor market with skilled resources is one of today’s main social challenges. The qualification paradigm has led us in the past years to human resources evaluation models that mostly praise the operational efficiency of the worker. In a troubled (and distressed) economical context, the ability to possess qualifications and skills must be the “value added” by each one of us to the society. It’s not just a matter of being qualified. It’s mostly a matter of being qualified and skilled. The permanent acquisition of skills is crucial. The scrutiny of those individuals’ skills by the labor market scales up its confidence on those individuals. The Academy has lived, in the past, closed to the society, not being able adapt itself to its new challenges. Those days are gone and now the Academy must provide individuals with qualification, competences and skills. We need to foster an Open Academy. This project intends to be a small contribute to those challenges. It consists on a tool, implemented trough a web site and a database that can provide the Academy information about the skills that students possess, manage that information and manage the programmatic contents of the modules that provide skills (academic disciplines, training courses, workshops, …). The database supports student’s resumes and a comprehensive list of its skills, which can be consulted by any teacher or employer with the appropriate permissions. The web site will be built using Microsoft’s ASP.NET (supported by C# programming language) and SQL Server 2005.",
+    "palavras_chave": [],
+    "areas": [
+      "educação"
+    ],
+    "tecnologias": [
+      "NET",
+      "SQL",
+      "SQL Server"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Procedimentos de marcações de actos médicos multi-canal. O projecto acima citado",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "O nosso trabalho consiste em desenvolver uma aplicação em PHP que simule uma loja virtual, o programa não ira funcionar online, mas devera comportar-se como um site de compras, que terá como objectivo disponibilizar informações detalhadas e concisas sobre 4 tipos de produtos, no caso, Livros, CDs, DVDs e Hardware. O utilizador poderá interagir no site podendo realizar visualizações dos produtos como poder compra-los. O projecto foi construído e optimizado para o browser FireFox.",
+    "palavras_chave": [],
+    "areas": [
+      "gestão"
+    ],
+    "tecnologias": [
+      "Apache",
+      "MySQL",
+      "PHP"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "No âmbito da cadeira de “Projecto”, 4o ano da Licenciatura de Informática de Ges",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Resumo não disponível",
+    "palavras_chave": [
+      "Base de Dados",
+      "SQL",
+      "Sistemas Inventário"
+    ],
+    "areas": [
+      "gestão"
+    ],
+    "tecnologias": [
+      "ASPNET",
+      "SQL Server"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "O presente relatório vem descrever um trabalho de estágio numa empresa municipal",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "O Futebol Manager consiste numa aplicação de gestão para treinadores de futebol. Esta aplicação permite avaliar os jogadores em cada vertente de treino (Físico, Técnico e Táctico), bem como ver os dados pessoais de cada jogador. A aplicação permite consultar, adicionar, editar e eliminar os dados de cada jogador, treino e utilizadores. Apesar de ser uma ferramenta direccionada para treinadores de futebol, pode ser usada por treinadores de outros desportos cujas estruturas de treinos sejam semelhantes.",
+    "palavras_chave": [
+      "Aplicação Web"
+    ],
+    "areas": [
+      "Desporto"
+    ],
+    "tecnologias": [
+      "Spring MVC"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "O presente relatório pretende descrever o contexto e a solução técnica da gestão",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "O objectivo do presente projecto é proceder à análise e desenvolvimento de uma aplicação que permita gerir a relação de uma empresa com os seus fornecedores de um qualquer ramo de actividade e para um qualquer negócio. Foi igualmente considerado o desenvolvimento de uma interface web através da qual poderão ser consultados os dados que constam da aplicação – um Gestor de Projecto poderá ter um acompanhamento dos fornecimentos através de casa, estando de férias ou ate mesmo no local onde decorre o projecto (por exemplo numa obra, se se tratar de um projecto de construção civil) recorrendo ao acesso à internet (neste projecto apenas se vai desenvolver uma interface simples sem grande recursos gráficos e funcionalidades, apenas como referência do que poderia ser desenvolvido em termos de interface web).",
+    "palavras_chave": [
+      "Front-End",
+      "SQL Server"
+    ],
+    "areas": [
+      "gestão"
+    ],
+    "tecnologias": [
+      "ASPNET",
+      "JavaScript",
+      "SQL Server",
+      "Web",
+      "XML"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 4
+  },
+  {
+    "titulo": "No âmbito da cadeira de projecto do 3o ano da Licenciatura em Engenharia Informá",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "O projecto consiste no desenvolvimento de um gestor de chaves (adaptado às necessidades da ULHT – Universidade Lusófona de Humanidades e Tecnologias) que, após inserir um Login, permitirá ao utilizador/administrador realizar uma série de funcionalidades referentes à requisição de chaves e data shows assim como inserir, editar ou apagar salas, blocos, requisições e data shows.",
+    "palavras_chave": [
+      "Eurofrutas",
+      "Interface do Utilizador",
+      "Intra@Eurofrutas",
+      "fornecedores",
+      "vendas"
+    ],
+    "areas": [
+      "empresarial"
+    ],
+    "tecnologias": [
+      "NET",
+      "C#",
+      "SQL Server"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "O ritmo de mudança tem aumentado, vivemos na sociedade da informação e na era da",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "As Unidades de Saúde que efectuam prestação de Serviços Médicos Convencionados, deparam- se com bastantes dificuldades no processo de gestão e facturação às entidades com as quais estabelece acordos ou convenções. Estas dificuldades são mais elevadas quando maior o número de acordos estabelecidos, dadas as diferenças existentes ao nível das interfaces disponibilizadas para envio da facturação, bem como as tabelas de actos e valores de comparticipação distintos. Este trabalho final de curso (TFC), resulta de um estudo sobre o processo de facturação de serviços médicos num Grupo de Saúde, prestador de cuidados de saúde, e teve como objectivo conceber uma plataforma que providenciasse uma visão global e integrada, de todos os serviços de suporte ao processo de facturação de serviços médicos, assim como a centralização da informação envolvida no processo, muitas vezes dispersa pelas múltiplas ferramentas existentes.",
+    "palavras_chave": [
+      "Trabalho Final de Curso (TFC)"
+    ],
+    "areas": [
+      "gestão",
+      "saúde"
+    ],
+    "tecnologias": [
+      "XML"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Atingindo a fase final da Licenciatura em Informática, ramo de Gestão, surgiu um",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "O objectivo do trabalho é criar uma aplicação informática que visa oferecer ao cliente um conjunto de vantagens a nível de cálculos de custos de chamadas efectuadas na central VOIP adquirida: Rapidez no acesso aos custos de chamadas; Funcionalidades a nível de criação de relatórios; Facilidade de visualização da aplicação no navegador de internet;",
+    "palavras_chave": [
+      "Centro de Atendimento",
+      "Gestão logins ACD,",
+      "Interface de Utilizador web de gestão de assistentes",
+      "Modelo de Dados para Códigos ACD"
+    ],
+    "areas": [
+      "gestão"
+    ],
+    "tecnologias": [
+      "Microsoft Visual Basic 6"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "A importância da Internet tem crescido rapidamente. Através da Internet divulgam",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "A importância da Internet tem crescido rapidamente. Através da Internet divulgam-se muitos espaços comerciais. O portal do Xpto Café tem como objectivo divulgar este espaço comercial através da Internet. O portal do Xpto Café foi elaborado tendo em conta as seguintes linguagens de programação HTML, folhas de estilo (CSS), Javascript e ASP.NET, Flash e a base de dados que foi usada com o ASP.MET foi o Access. O HTML é a linguagem fundamental da Internet, esta linguagem foca-se na estrutura dos documentos, formatação de texto, inserção de hiperligações e imagens, a criação de tabelas, a utilização de molduras e a formatação de secções. As folhas de estilo (CSS), uma especificação do W3C para a formatação de documentos HTML que reforça a capacidade gráfica do programador e estende a sua produtividade. O Javascript é uma linguagem criada pela Netscape e hoje omnipresente nos sítios de Internet. O ASP.NET é a mais recente tecnologia de servidor da Microsoft. O flash vai ser usado na página inicial do Xpto Café.",
+    "palavras_chave": [],
+    "areas": [],
+    "tecnologias": [
+      "ASPNET",
+      "CSS",
+      "HTML"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Foi nos lançado o desafio de fazermos um projecto sobre algo que despertasse a n",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Trata-se de um trabalho onde os docentes simulam a implementação de um sistema de redes dentro de uma empresa.",
+    "palavras_chave": [
+      "BackOffice",
+      "Website"
+    ],
+    "areas": [
+      "Telecommunications",
+      "gestão"
+    ],
+    "tecnologias": [
+      "Cisco"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Pretendo descrever a missão que me foi confiada há cerca de 6 anos e que foi ter",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "A emergente evolução das tecnologias de informação revolucionou o mundo empresarial refinando técnicas e metodologias no suporte ao crescimento das empresas. Estratégias empresariais de controlo de tempos e custos visando uma racionalização de recursos no crescimento exigem Sistemas de Informação robustos na segurança, performance e integração da informação. A focalização das empresas nas suas actividades potenciou as parcerias estratégicas para prestação de serviços ao nível do Outsorcing ou simplesmente consultoria em tecnologias de informação. Exige-se uma rápida e clara interpretação das necessidades, para respostas objectivas e eficazes. Quero realçar duas frases “chave” de enquadramento do meu projecto no mundo empresarial: Suporte e Crescimento.",
+    "palavras_chave": [
+      "Monitorização",
+      "Serviços"
+    ],
+    "areas": [
+      "Telecommunications"
+    ],
+    "tecnologias": [
+      "Crystal Reports",
+      "InstallShield",
+      "Microsoft Access 2003",
+      "Microsoft Visual Basic 6"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "A introdução das tecnologias de informação continua a alterar profundamente o mo",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "No trabalho 1 na disciplina Redes de Computadores tivemos que instalar uma rede integrada numa empresa, empresa essa que chamamos R.A Eventos. Neste trabalho 2 temos que instalar nessa mesma empresa Windows 2003, implementar IP’s e a Active Directory para a empresa. Foi nos dada três fichas para responder, neste trabalho respondemos ás fichas na forma de relatório não necessitando de dividir as questões por números.",
+    "palavras_chave": [
+      "Gestão de eventos"
+    ],
+    "areas": [
+      "empresarial",
+      "gestão"
+    ],
+    "tecnologias": [],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Este relatório objectiva explicar detalhadamente a solução tecnológica adoptada ",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "O projecto desenvolvido visa apoiar a gestão dos equipamentos da empresa Coutinho &amp; Coutinho, Lda. Este trabalho insere-se no âmbito da cadeira de Projecto que faz parte do quarto ano do curso de informática da Universidade Lusófona de Humanidades e Tecnologias.",
+    "palavras_chave": [],
+    "areas": [],
+    "tecnologias": [],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "O projeto visa o desenvolvimento de uma ferramenta informática de Gestão da Conf",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Gostaria de expressar os meus agradecimentos, em primeiro lugar, à minha mulher por todo o carinho, compreensão, emprenho e ajuda oferecida durante a elaboração deste projecto que tanto tempo me ocupou e me manteve um algo distante. Para ela muito amor e carinho e que o tempo gasto não tenha sido em vão. Em segundo lugar, gostaria de agradecer aos membros da oficina, que me acolheram neste projecto, a disponibilidade que tiveram para me ajudar e elucidarem as minhas questões mais pertinentes.",
+    "palavras_chave": [
+      "Website"
+    ],
+    "areas": [
+      "gestão"
+    ],
+    "tecnologias": [
+      "HTML",
+      "Linux Ubuntu",
+      "PHP",
+      "Windows"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Pensei numa forma de elaborar um sistema mais simples e eficaz de guardar e cons",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "This dissertation presents an innovative Procedural Content Generation algorithm that creates new virtual landscapes, inspired by ant behaviour, as well as realistic modifications to existing landscapes. It does so by adapting ants' pheromone-based pathfinding capabilities and food collection behaviour combined with height perception. Ants navigate their environment by identifying points of interest, such as food sources and their colony, leaving pheromone trails as they move. These trails serve as signals that attract other ants, guiding their paths and enabling collective interaction. In this process, they can influence and modify the terrain, creating paths or patterns reflective of their activity. The project was built with the Unity game engine, taking advantage of its terrain generating and visualization tools. The system developed supports the creation and storage of parameterisable variables that allow the customization of the ants' behaviours, the inception of the terrain and some other display related settings. A select set of curated results demonstrates the algorithm's capacity to adapt to and transform various types of landscapes. Overall, this project's intent is to serve as the basis of a yet unexplored convergence of ideas: to unify the concepts of animal simulations and creation of interesting and dynamic virtual landscapes.",
+    "palavras_chave": [
+      "Geração Procedimental de Conteúdos",
+      "Jogos",
+      "Modelação",
+      "Plataforma de jogos",
+      "Simulação"
+    ],
+    "areas": [
+      "Artificial Intelligence",
+      "Inteligência Artificial"
+    ],
+    "tecnologias": [
+      "NET",
+      "Unity"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "O Acidente Vascular Cerebral (AVC) é uma das principais causas de mortalidade e ",
+    "autores": "jpcseleuterio@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "O Acidente Vascular Cerebral (AVC) é uma das principais causas de mortalidade e incapacidade no mundo, exigindo um diagnóstico rápido e preciso para tratamento adequado. Diferenciar entre AVC isquêmico e hemorrágico é essencial, pois as abordagens terapêuticas são distintas. No entanto, os métodos tradicionais, como tomografia computadorizada (TC) e ressonância magnética (RM), demandam infraestrutura especializada, dificultando o diagnóstico em ambientes pré-hospitalares. Neste estudo, investigamos o uso da espectroscopia Raman intensificada por superfície (SERS) aliada à machine learning para a detecção rápida de AVC. A técnica SERS permite analisar amostras de plasma sanguíneo de forma sensível e rápida, identificando biomarcadores relevantes, como a proteína ácida fibrilar glial (GFAP), que está associada a danos cerebrais. O objetivo principal é desenvolver um modelo de machine learning capaz de classificar AVC hemorrágico com base em espectros SERS, utilizando GFAP como indicador.",
+    "palavras_chave": [
+      "Acidente Vascular Cerebral",
+      "SERS",
+      "machine Learning"
+    ],
+    "areas": [
+      "Ciência de Dados e Inteligência Artificial"
+    ],
+    "tecnologias": [
+      "Python"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "Global polarity is a key concept in international relations, used to describe ho",
+    "autores": "duartecapinha@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Global polarity is a key concept in international relations, used to describe how power is distributed among nations. The categories of unipolarity, bipolarity, and multipolarity have traditionally been applied based largely on qualitative interpretations – and, when quantitative, without sufficiently deep analysis or the extent of data that this study aims to explore. Since the beginning of the 21st century, the debate over the current polarity type has remained active. It has become even more relevant in light of phenomena, such as late globalization, the redefinition of spheres of influence, and increasing geoeconomic tensions. Can we still speak of American unipolarity? This thesis proposes a quantitative approach to help answer that question by developing a machine learning model trained on geopolitical data from historically consensual periods, such as the Cold War and the post–Cold War era. Key events such as the war on terror, transnational terrorism, the 2008 financial crisis, climate change, global migration flows, and current regional conflicts with global repercussions (Ukraine, the Middle East, China–Taiwan) will be considered. The goal is to identify patterns associated with each type of polarity and apply the model to the current context—to better understand what kind of international system we live in today, and what the data can tell us about it. Supervisor: Iolanda Velho Co-Supervisor: Jorge Botelho Moniz",
+    "palavras_chave": [
+      "Análise de Clusters",
+      "Análise de Dados",
+      "Python",
+      "Séries Temporais"
+    ],
+    "areas": [
+      "Ciência de Dados",
+      "Ciência de Dados e Inteligência Artificial"
+    ],
+    "tecnologias": [
+      "Python",
+      "SQL"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "Dissertação com objetivo de encontrar padrões que conduzem à rotatitividade e re",
+    "autores": "fatima2011yausuf@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Dissertação com objetivo de encontrar padrões que conduzem à rotatitividade e retenção de colaboradores, utilizando ferramentas de data science e modelos preditivos como clustering.",
+    "palavras_chave": [
+      "Análise de Clusters",
+      "Recursos Humanos"
+    ],
+    "areas": [
+      "Ciência de Dados",
+      "Recursos Humanos"
+    ],
+    "tecnologias": [
+      "Python"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "A retenção de colaboradores é um desafio significativo para muitas organizações,",
+    "autores": "beatriz543pereira@hotmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "A retenção de colaboradores é um desafio significativo para muitas organizações, especialmente em mercados de trabalho competitivos. Desenvolver modelos de previsão para identificar quais colaboradores têm maior probabilidade de deixar a empresa pode ajudar as organizações a tomar medidas proativas para reduzir a rotatividade, economizando custos e mantendo o conhecimento institucional.",
+    "palavras_chave": [
+      "Análise de Dados",
+      "Ciência dos Dados",
+      "Recursos Humanos"
+    ],
+    "areas": [
+      "Ciência de Dados",
+      "Recursos Humanos"
+    ],
+    "tecnologias": [
+      "Python"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "O setor de retalho enfrenta uma concorrência crescente e margens de lucro cada v",
+    "autores": "andrecapote1999@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "A alteração das tendências dos clientes, em conjunto com o avanço da tecnologiaprofundamente enraizada nas rotinas dos indivíduos, juntamente com um cenário cadavez mais competitivo acentuado por novos concorrentes, particularmente as empresas defintech, obrigaram as instituições financeiras a atender prontamente aos seus esforços dedigitalização. Este esforço é crucial para manter a importância num sector que está asofrer uma metamorfose substancial. Num passo mais lento, Angola segue esta tendênciaglobal, uma vez que um número crescente de indivíduos procura comodidades e ofertasfinanceiras digitalizadas, especificamente no domínio da banca. Assim, tendo em contaeste contexto, o objetivo do presente trabalho é analisar o impacto das novas tecnologiasno contato com a instituição bancária, visto do lado dos clientes e dos funcionários dasinstituições bancárias angolanas. Para o efeito, foram aplicados dois questionáriosinvestigação, a clientes e trabalhadores bancários, empregando uma abordagem deinvestigação quantitativa. Responderam ao questionário 78 clientes de instituiçõesbancárias e 50 funcionários bancários. O estudo sobre o impacto das novas tecnologiasna interação entre clientes e colaboradores das instituições bancárias em Angola revelouque os clientes estão a adotar positivamente ferramentas digitais como o MulticaixaExpress e a banca online. No entanto, persistem as preocupações com a cibersegurança.A transformação digital é vista como uma oportunidade para aumentar a eficiência e aprodutividade, embora a perceção do impacto varie entre funcionários e clientes. O estudodestacou diferenças demográficas, como o género, a idade e o nível de educação, queafetam as percepções e a adoção das tecnologias. Foram reconhecidas as limitações daamostra, sublinhando a necessidade de uma investigação mais exaustiva. De um modogeral, o estudo fornece informações valiosas para orientar as estratégias de transformaçãodigital no sector bancário em Angola, considerando tanto as oportunidades como osdesafios.",
+    "palavras_chave": [
+      "Angola",
+      "Setor Bancário",
+      "Transformação Digital"
+    ],
+    "areas": [
+      "gestão"
+    ],
+    "tecnologias": [
+      "Bases de Dados",
+      "Excel"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "A tese apresenta o Xperis, um inovador sistema de gerenciamento e armazenamento ",
+    "autores": "marcelo.balves@outlook.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Hoje em dia muitas empresas procuram cada vez mais inovar os seus sistemas informáticos. É hoje uma realidade que as novas tecnologias, os novos sistemas devem disponibilizar a informação correcta, no formato certo, à pessoa certa e em tempo exacto. “Ontem” tínhamos sistemas inflexíveis, hoje, têm que ser transversais, partilhados e em rede. Inerentes a esta inovação, as Empresas também pretendem que os seus sistemas sejam práticos, funcionais e rentáveis. Assim, tendo como base estas premissas, as mesmas procuram no mercado “parceiros” que possuam estas características e que lhes possam garantir/oferecer o que necessitam para desenvolverem as suas áreas de negócios, de uma forma sustentada, acrescentando valor aos seus próprios Clientes. Neste contexto, as Empresas prestadoras deste tipo de serviço para se poderem diferenciarem de uma forma positiva no mercado, quer nacional quer estrangeiro, devem adoptar sistemas que possam ir ao encontro das necessidades dos seus actuais Clientes e dos seus Clientes futuros. Várias empresas já tiveram um histórico de problemas relativos a elevados investimentos em que estes não conseguiram atingir os objectivos a que se propuseram atingir, visto que, muitas vezes não efectuam uma escolha adequada dos métodos, do âmbito e dos critérios que necessitam para desenvolverem esses mesmos projectos, originando perda de qualidade e diminuição da sua produtividade. Como reflexo destas escolhas, não conseguem alcançar os objectivos de negócio previamente definidos e propostos. Neste âmbito, é fundamental perceber a importância da utilização de uma metodologia, a qual se pode definir como: um conjunto de técnicas, procedimentos, ferramentas e documentação que sustentam e auxiliam os gestores/responsáveis no desenvolvimento e implementação de um sistema de informação. Dentro de uma metodologia, existe ainda várias fases que orientam os gestores/responsáveis do projecto para a correcta definição e escolha de técnicas apropriadas de acordo com as etapas que ocorrem durante o desenvolvimento e implementação de um sistema de informação. O que muitos desconhecem, é que muitas vezes o sucesso de um projecto de software depende de vários factores, tais como o planeamento, a definição dos objectivos a atingir e principalmente na escolha da metodologia mais adequada e compatível com o projecto em curso. Hoje em dia muitas empresas adoptaram a fundo as metodologias ágeis como sendo as mais eficazes e acessíveis à mudança proporcionando melhorias em diversos aspectos durante o processo de desenvolvimento de software, tais como: o tempo de entrega, qualidade do produto final e a redução de custos operacionais. Por outro lado temos a modelo em cascata/tradicional que foi e é a metodologia mais conhecida e a mais antiga. Para desenvolver um projecto nesta metodologia é preciso seguir cada etapa sequencialmente, ela implica que, um grande esforço seja feito em duas das fazes consideradas cruciais no desenvolvimento do projecto: levantamento de requisitos/necessidades e o design. O presente trabalho tem como objectivo principal o estudo dos ganhos de produtividade e de sucesso de metodologias ágeis vs. metodologias em cascata no desenvolvimento de projectos de software.",
+    "palavras_chave": [
+      "Aumentar Produtividade",
+      "Ciência dos Dados",
+      "Informática"
+    ],
+    "areas": [
+      "educação"
+    ],
+    "tecnologias": [
+      "PowerBI"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "O sector da saúde a nível nacional e internacional atravessa uma fase de digital",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Dissertação apresentada para a obtenção do Graude Mestre em Sistemas de Informação no Curso deMestrado em Engenharia de software e Sistemas deInformação, conferido pela Universidade Lusófonade Humanidades e Tecnologias",
+    "palavras_chave": [
+      "Empresas",
+      "Processos",
+      "Reduzir custos",
+      "Stock"
+    ],
+    "areas": [
+      "empresarial"
+    ],
+    "tecnologias": [
+      "NET",
+      "ASPNET",
+      "ERP – SAP",
+      "SQL Server"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "Dissertação apresentada para a obtenção do Grau deMestre em Engenharia de Softwa",
+    "autores": "deisi@ulusofona.pt",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Optical Wireless Communication (OWC) has recently drawn significant interest for real-time data transfer in various terrestrial and underwater applications due to their extensive bandwidth, high data rates, low latency, and efficiency in terms of security, Energy Harvesting (EH), and cost efficiency. Despite these advantages, the optical communication is substantially impaired by absorption, scattering, and strong turbulence effects in various channels, which lead the optical scintillation and disrupt communication between connecting nodes. In this thesis, the development of optical signaling focuses on novel mathematical expressionsfor new software tools that aimed to enhance spectral efficiency and communication reliability. It investigates the performance metrics of the proposed system models designed to improve data rate and throughput while accounting for moderate-to-strong optical turbulence between transceivers under diverse channel conditions. TheOWC systems leverage advanced optical technologies for realtime monitoring and seamless communication towards advanced wireless networks. These systems support Ultra-Reliable Low Latency Communications (URLLC), increased network capacity, and high data rates. Therefore, optical communication in the visible light spectrum has opened new doors to explore unguided mediums such as devastating natural wildfire disasters and deep oceans through the Internet of Underwater Things (IoUTs). Additionally, this thesis aims to evaluate various optical transmission arrangements to mitigatestrong turbulence and misalignmentphenomena amongst communication nodes. An optical-enabled Autonomous Underwater Vehicle (AUV) communication model is designed in mixed ocean water within varying vertical layers in real-time scenarios. Also, a proposed design introduces a generic hybrid Free Space Optics (FSO) and Visible Light Communication (VLC) system for underwater communication, extending the capabilities of optical-enabled wireless communication. This system is engineered to facilitate reliable communication over long-ranges in aqueous mediums. In addition to that a setup of Unmanned Aerial Vehicle (UAV)-assisted Wireless Sensor Network (WSN)s for wildfire communication towards 5G and Beyond (5GB) networks is investigated based on the real-time experimental data. It is noteworthy that the unified Gamma-Gamma Distribution (GG) distribution offers a promising solution to design optical turbulence and is evaluated to meet the current communication requirements in hostile channels. This thesis assesses the performance effects of optical impairments characterized by multiple transceivers in wildfire communication, IoUTs, and communication within varying vertical water layers by following the Monte Carlo (MC) simulation framework. The findings are anticipated to deepen understanding of optical communication within various wireless systems, including UAV and AUV-assisted WSNs. This thesis aims to bridge the gap between the current optical-enabled Internet Internet of Things (IoT) approaches and the existing communication infrastructures along with the future work can be laid to improve the hybrid optical communication in optimizing network connectivity, localization, optical EH, Re-Configurable Intelligent Surfaces (RIS) assisted UAV and AUV communications.",
+    "palavras_chave": [
+      "UnderwaterWireless Optical Communications(UWOC)",
+      "UnmannedAerialVehicle (UAV)"
+    ],
+    "areas": [
+      "Wireless communication"
+    ],
+    "tecnologias": [
+      "Free Space Optical Communication",
+      "Internet of Underwater Things (IoUTs)",
+      "Visible light Communications"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 3
+  },
+  {
+    "titulo": "A Programação Orientada por Objectos (OOP, do Inglês Object-Oriented Programming",
+    "autores": "bcipriano@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "The rapid evolution of wireless communication technologies has paved the way for an era of datadriven applications that heavily rely on the exchange of time-critical information for monitoring andcontrol purposes. This shift is evident across various domains: autonomous vehicles exchangingsafety-related information, remote surgery systems requiring ultra-reliable and low-latency communication, and high-frequency automated trading platforms demanding real-time data updates. In these emerging application scenarios, the freshness of information is of paramount importance, asoutdated data not only loses its value but can also lead to system failures and potentially catastrophicsafety risks. Traditional timeliness performance metrics such as latency and inter-delivery timehave proven inadequate to capture the timeliness requirements of these mission-critical applications.To address this limitation, the concept of Age of Information (AoI) has emerged as a reliable metricfor quantifying information freshness in communication networks.This thesis investigates AoI analysis and optimization across diverse wireless communicationsystems, including ultra-reliable low-latency communication (URLLC), simultaneous wirelessinformation and power transfer (SWIPT), unmanned aerial vehicle (UAV) assisted networks, anddeep joint source-channel coding (DJSCC)-based semantic communication. Mathematical modelsare employed to analyse average AoI (AAoI) in URLLC-enabled UAV-assisted communicationsystems and UAV-assisted wireless sensor networks (WSNs). Closed-form expressions for AAoIare derived using stochastic hybrid systems models, and the effect of system parameters such asUAV altitude, block length, and update generation rate on information freshness is investigated. Foranalysis of short packet systems, finite blocklength information theory is employed to accuratelymodel the performance of URLLC systems. Simulation results demonstrate that UAV-assisted relaycommunication maintains lower AoI compared to traditional direct transmission.The thesis also examines the AAoI in SWIPT-enabled cooperative relay networks under differentscheduling policies, namely, transmit without waiting and wait until charged. Moreover, it introducesa novel DJSCC-based semantic communication approach to minimize AoI for image transmissionand proposes a new content-based AoI metric, the age of misclassified information (AoMI), forDJSCC-based systems. These concepts are applied to a UAV-based wildfire detection system,enhancing accuracy and timeliness of information delivery. Simulation results show the DJSCC based approach achieves lower AoMI than traditional methods, especially at low signal-to-noiseratios and bandwidth.In summary, this thesis emphasises AoI as a critical metric for mission-critical applications,offering insights into optimising wireless communication systems for information freshness. Itenhances understanding of AoI in UAV-assisted networks, WSNs, and semantic communicationsystems, paving the way for future research on improving information freshness.",
+    "palavras_chave": [
+      "Age of Information",
+      "Semantic communication",
+      "Simultaneous wireless information and power transfer",
+      "Ultra-reliable low-latency communication",
+      "Unmanned aerial vehicles"
+    ],
+    "areas": [
+      "Wireless communication"
+    ],
+    "tecnologias": [
+      "Deep learning",
+      "Finite blocklength information theory",
+      "Machine Learning",
+      "Matlab",
+      "NumPy",
+      "Python"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  },
+  {
+    "titulo": "The design of Low-Power Wide Area Networks (LP WAN) assumes balancing the trade-",
+    "autores": "tijana.09081993@gmail.com",
+    "orientadores": null,
+    "curso": null,
+    "ano": 2025,
+    "sumario": "Dispositivos voadores em rede, tais como veículos aereos não tripulados (UAV), também chamados drones, equipados com camaras inteligentes estão cada vez mais a serem utilizados para formar sistemas autonomos cooperativos para realizar tarefas de fotogrametria e detecção, incluindo a captação de dados de vídeo e imagem em tempo real de alta qualidade para monitorização no terreno, vigilância e serviços de gestao de desastres. O aumento dos UAV tem sido principalmente atribuído a sua maleabilidade e oferta de grande autonomia no estabelecimento de uma rapida ligação sem fios, permitindo esforços coordenados na recuperação de informaçao crítica e sensivel ao tempo a partir de varios locais, incluindo locais em perigo para reduzir os factores de risco humano. Embora tenham sido desenvolvidos drones de camara inteligente em rede para produzir enormes quantidades de dados críticos de locais atingidos por catastrofes que precisam de ser transferidos e analisados em tempo real, o funcionamento em rede e relacionado com a comunicação, abrangendo o sistema de UAV único a uma grande rede ad hoc de UAVs (UAV-FANET) capaz de fornecer uma coordenação rápida de agentes para uma recuperação e disseminação adequadas de dados de vídeo e imagem, vem com desafios significativos, nomeadamente topologia dinamica e mobilidade rápida dos nós. Al em disso, as UAV-FANETs enfrentam desconexoes intermitentes e não disponíveis intermitentemente, em grande parte devido a sua estrutura 3D, impactando assim a qualidade dos pacotes disseminados. Determinada a enfrentar estes desafios, o principal objectivo desta tese e investigar novos sistemas de redes de camaras inteligentes voadoras capazes de capturar e transmitir imagens e vídeo de alta qualidade em grandes areas geográficas, concentrando-se não na reprodução de vídeo, mas na investigação de abordagens avançadas de redes sem fios para a transmissao de pacotes. Para este fim, o objetivo desta tese surge no seguinte: analisar o estudo de aplicabilidade de enxames de drones para rede e requisitos de computação necessários para o funcionamento eficiente de um sistema de enxame como um sistema de controlo em rede; investigar escolhas fiaveis de desenho de comunicaçoes sem fios capazes de fornecer apoio suficiente para a captura e disseminação adequadas de pacotes de vídeo e imagem em grandes UAV-FANETs; conceber e implementar um novo esquema baseado em clusters chamado Mecanismo de Clustering Dinamico com Balanceamento de Carga para realizar o clustering devido a mobilidade dos nós e à estrutura 3D, ao mesmo tempo que se abordam as restrições causadas por alterações topológicas, e em sincronia com uma função de entropia para lidar com a tolerância a falhas de cluster e sobrecargas de tráfego para uma disseminação adequada dos pacotes de dados FANETs; e finalmente, para investigar o encaminhamento híbrido interoperavel baseado na posição, onde o encaminhamento intra-cluster e capaz de evitar caminhos de encaminhamento inadequados com base num metodo de classificaçao simples, enquanto o encaminhamento entre cluster baseado em abordagens gananciosas e de regras de mao direita para reduzir a sobrecarga de mensagens e para escapar a situacões de nós vazios, para resolver desconexões intermitentes e limitações de escalabilidade em FANETs agrupadas. A avaliação experimental realizada utilizando a ferramenta de simulação NS-3 provam que as nossas novas estruturas de comunicação são capazes de fornecer uma disseminação adequada de pacotes de dados em comparação com outros mecanismos de última geracão. Em suma, as estruturas teórica e lógicas investigadas neste estudo fornecem a base para a concepção e implementação de sistemas sem fios adequados capazes de fornecer uma disseminação adequada de pacotes de vídeo e imagem em grandes FANETs de UAV.",
+    "palavras_chave": [
+      "Analise de Clusters",
+      "Redes sem fio"
+    ],
+    "areas": [
+      "ambiente",
+      "educação",
+      "sociedade"
+    ],
+    "tecnologias": [
+      "C#",
+      "Python"
+    ],
+    "link_pdf": null,
+    "imagem": null,
+    "rating": 5
+  }
+]
