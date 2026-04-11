@@ -193,6 +193,7 @@ class Projeto(models.Model):
 # ─────────────────────────────────────────
 class TFC(Projeto):
 
+    # Docente - TFC  →  N:N
     orientadores = models.ManyToManyField(
         Docente,
         related_name="tfcs",
@@ -206,7 +207,11 @@ class TFC(Projeto):
 
     area = models.CharField(max_length=200, blank=True)
 
-    rating =[MinValueValidator(0), MaxValueValidator(10)]
+    rating = models.IntegerField(
+    validators=[MinValueValidator(0), MaxValueValidator(10)],
+    null=True,
+    blank=True
+)
 
     def __str__(self):
         return f"TFC: {self.titulo}"
@@ -295,6 +300,7 @@ class MakingOf(models.Model):
     erros = models.TextField(blank=True)
     uso_IA = models.BooleanField(default=False)
 
+    # Making Of - Projeto  →  N:1
     projeto = models.ForeignKey(
         Projeto,
         on_delete=models.CASCADE,

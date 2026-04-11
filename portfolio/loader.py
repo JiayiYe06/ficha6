@@ -143,6 +143,9 @@ def load_tfcs(reset=False):
             palavras_chave = item.get("Palavras chave", "")
             area = item.get("Áreas", "")
 
+            rating = item.get("Rating", 0)
+
+
             # 🧱 Criar TFC primeiro
             tfc, _ = TFC.objects.update_or_create(
                 titulo=titulo,
@@ -154,6 +157,7 @@ def load_tfcs(reset=False):
                     "unidade_curricular": uc,
                     "palavras_chave": palavras_chave,
                     "area": area,
+                    "rating": rating,
                     }
                     )
             
