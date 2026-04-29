@@ -1,0 +1,15 @@
+<h1>Formações</h1>
+
+<a href="/portfolio/formacoes/criar/">Criar formação</a>
+
+<ul>
+    {% for f in formacoes %}
+        <li>
+            {{ f.nome }} - {{ f.entidade_formadora }}
+            <a href="/portfolio/formacoes/editar/{{ f.id }}/">Editar</a>
+            <a href="/portfolio/formacoes/apagar/{{ f.id }}/">Apagar</a>
+        </li>
+    {% endfor %}
+</ul>
+
+<a href="/portfolio/">Voltar</a>

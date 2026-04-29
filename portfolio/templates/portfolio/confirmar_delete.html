@@ -1,0 +1,10 @@
+<h1>Apagar Projeto</h1>
+
+<p>Tens a certeza que queres apagar "{{ projeto.titulo }}"?</p>
+
+<form method="POST">
+    {% csrf_token %}
+    <button type="submit">Sim, apagar</button>
+</form>
+
+<a href="/portfolio/">Cancelar</a>

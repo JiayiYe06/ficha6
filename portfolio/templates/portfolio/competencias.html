@@ -1,0 +1,15 @@
+<h1>Competências</h1>
+
+<a href="/portfolio/competencias/criar/">Criar competência</a>
+
+<ul>
+    {% for c in competencias %}
+        <li>
+            {{ c.nome }} (Nível {{ c.nivel }})
+            <a href="/portfolio/competencias/editar/{{ c.id }}/">Editar</a>
+            <a href="/portfolio/competencias/apagar/{{ c.id }}/">Apagar</a>
+        </li>
+    {% endfor %}
+</ul>
+
+<a href="/portfolio/">Voltar</a>

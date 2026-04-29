@@ -1,0 +1,15 @@
+<h1>Tecnologias</h1>
+
+<a href="/portfolio/tecnologias/criar/">Criar tecnologia</a>
+
+<ul>
+    {% for t in tecnologias %}
+        <li>
+            {{ t.nome }}
+            <a href="/portfolio/tecnologias/editar/{{ t.id }}/">Editar</a>
+            <a href="/portfolio/tecnologias/apagar/{{ t.id }}/">Apagar</a>
+        </li>
+    {% endfor %}
+</ul>
+
+<a href="/portfolio/">Voltar</a>

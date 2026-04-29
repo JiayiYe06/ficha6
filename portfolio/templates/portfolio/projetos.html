@@ -1,0 +1,15 @@
+<h1>Projetos</h1>
+
+<a href="/portfolio/criar/">Criar projeto</a>
+
+<ul>
+    {% for p in projetos %}
+        <li>
+            {{ p.titulo }}
+            <a href="/portfolio/editar/{{ p.id }}/">Editar</a>
+            <a href="/portfolio/apagar/{{ p.id }}/">Apagar</a>
+        </li>
+    {% endfor %}
+</ul>
+
+<a href="/portfolio/">Voltar</a>
