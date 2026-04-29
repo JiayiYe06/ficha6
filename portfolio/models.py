@@ -96,12 +96,21 @@ class UnidadeCurricular(models.Model):
 
 
 # ─────────────────────────────────────────
+# Sobre
+# ─────────────────────────────────────────
+class TipoTecnologia(models.Model):
+    nome = models.CharField(max_length=100)
+
+    def __str__(self):
+        return self.nome
+
+# ─────────────────────────────────────────
 # Tecnologia
 # ─────────────────────────────────────────
 
 class Tecnologia(models.Model):
     nome            = models.CharField(max_length=100)
-    tipo            = models.CharField(max_length=100)
+    tipo = models.ForeignKey(TipoTecnologia, on_delete=models.CASCADE, null=True, blank=True)
     descricao       = models.TextField(blank=True)
     logo            = models.ImageField(upload_to="tecnologias/logos/", null=True, blank=True)
     link_oficial    = models.URLField(blank=True)
@@ -337,3 +346,4 @@ class Formacao(models.Model):
     class Meta:
         verbose_name        = "Formação"
         verbose_name_plural = "Formações"
+

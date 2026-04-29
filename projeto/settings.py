@@ -130,10 +130,11 @@ STATIC_ROOT = BASE_DIR / 'staticfiles'
 MARKDOWNIFY = {
     "default": {
         "WHITELIST_TAGS": [
-            'p','h1','h2','h3','ul','li','ol','strong','em','img'
+            'p','h1','h2','h3','ul','li','ol','strong','em','img','a'
         ],
         "WHITELIST_ATTRS": {
-            'img': ['src', 'alt', 'width']
+            'img': ['src', 'alt', 'width'],
+            'a': ['href']   # 👈 ISTO FALTA
         }
     }
 }

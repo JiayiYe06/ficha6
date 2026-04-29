@@ -5,7 +5,13 @@
 <ul>
     {% for t in tecnologias %}
         <li>
-            {{ t.nome }}
+            <strong>{{ t.nome }}</strong> 
+            {% if t.tipo %}
+                ({{ t.tipo.nome }})
+            {% endif %}
+            <br>
+            {{ t.descricao }}<br>
+
             <a href="/portfolio/tecnologias/editar/{{ t.id }}/">Editar</a>
             <a href="/portfolio/tecnologias/apagar/{{ t.id }}/">Apagar</a>
         </li>

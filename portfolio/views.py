@@ -175,10 +175,14 @@ def sobre(request):
 # Sobre esta aplicação
 
 ## 1. Arquitetura MVT
-A aplicação segue o padrão MVT:
-- Model: estrutura da base de dados
-- View: lógica da aplicação
-- Template: interface com o utilizador
+A aplicação usa a arquitetura MVT (Model-View-Template), que divide o funcionamento em partes simples. O utilizador interage com o site através do browser, por exemplo ao clicar numa página ou submeter um formulário. Esse pedido é enviado para o Django, que usa o ficheiro de URLs para encaminhar o pedido para a parte certa da aplicação.
+
+A seguir entra a view, que é responsável por tratar o pedido. A view decide o que fazer e, se for preciso, vai buscar dados ao model. O model representa a base de dados e guarda toda a informação da aplicação, como projetos, tecnologias, competências e formações.
+
+Depois de obter os dados, a view envia essa informação para o template. O template é a parte visual, ou seja, o HTML que aparece no ecrã do utilizador. É aqui que os dados são mostrados de forma organizada.
+
+Resumindo o utilizador faz um pedido, o URL encaminha para a view, a view trata o pedido e consulta o model, depois envia os dados para o template, e por fim o template mostra a página ao utilizador.
+
 
 <img src="/media/makingof/foto4.png" width="400">
 
@@ -228,11 +232,7 @@ https://github.com/JiayiYe06/ficha6
 ---
 
 ## 6. Making Of
-Durante o desenvolvimento foram feitos vários registos:
-- criação de models
-- implementação de CRUD
-- organização das páginas
-
+<a href="/media/makingof/Entidade.docx">Download do Making Of</a>
 """
 
     return render(request, "portfolio/sobre.html", {"texto": texto})

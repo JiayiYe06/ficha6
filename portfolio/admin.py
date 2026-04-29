@@ -32,3 +32,5 @@ admin.site.register(MakingOf)
 from .models import Formacao
 admin.site.register(Formacao)
 
+from .models import  TipoTecnologia
+admin.site.register(TipoTecnologia)
