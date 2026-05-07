@@ -1,0 +1,59 @@
+<h1>Artigos</h1>
+
+{% if user.is_authenticated %}
+
+    {% for grupo in user.groups.all %}
+
+        {% if grupo.name == "autores" %}
+
+            <a href="{% url 'criar_artigo' %}">
+                Criar artigo
+            </a>
+
+        {% endif %}
+
+    {% endfor %}
+
+{% endif %}
+
+<a href="{% url 'criar_artigo' %}">
+    Criar artigo
+</a>
+
+{% endif %}
+
+<hr>
+
+{% for artigo in artigos %}
+
+<h2>
+
+    <a href="{% url 'detalhe_artigo' artigo.id %}">
+        {{ artigo.titulo }}
+    </a>
+
+</h2>
+
+<p>
+    {{ artigo.autor }}
+</p>
+
+<p>
+    {{ artigo.data_criacao }}
+</p>
+{% if artigo.fotografia %}
+
+<img
+    src="{{ artigo.fotografia.url }}"
+    width="250"
+>
+
+{% endif %}
+
+<p>
+    Likes: {{ artigo.total_likes }}
+</p>
+
+<hr>
+
+{% endfor %}

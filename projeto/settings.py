@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'portfolio',
     'escola',
     'markdownify',
+    'accounts',
+    'artigos',
 ]
 
 MIDDLEWARE = [
@@ -134,7 +136,10 @@ MARKDOWNIFY = {
         ],
         "WHITELIST_ATTRS": {
             'img': ['src', 'alt', 'width'],
-            'a': ['href']   # 👈 ISTO FALTA
+            'a': ['href']
         }
     }
 }
+
+LOGIN_REDIRECT_URL = "/portfolio/"
+LOGOUT_REDIRECT_URL = "/portfolio/"

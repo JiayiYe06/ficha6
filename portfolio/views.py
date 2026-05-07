@@ -1,83 +1,163 @@
 from django.shortcuts import render, redirect, get_object_or_404
-from .forms import ProjetoForm
-from .forms import TecnologiaForm
-from django.shortcuts import get_object_or_404, redirect
+
+from django.contrib.auth.decorators import login_required
+from django.http import HttpResponseForbidden
+
 from .models import Projeto, Tecnologia, Competencia, Formacao
-from .models import Competencia, Formacao
-from .forms import CompetenciaForm, FormacaoForm
-from django.shortcuts import get_object_or_404, redirect
 
+from .forms import (
+    ProjetoForm,
+    TecnologiaForm,
+    CompetenciaForm,
+    FormacaoForm
+)
 
+def is_gestor(user):
+    return user.groups.filter(name='gestor-portfolio').exists()
+
+@login_required
 def criar_projeto(request):
+
+    if not is_gestor(request.user):
+        return HttpResponseForbidden("Sem permissão")
+
     if request.method == "POST":
         form = ProjetoForm(request.POST, request.FILES)
+
         if form.is_valid():
             form.save()
             return redirect("lista_projetos")
+
     else:
         form = ProjetoForm()
 
-    return render(request, "portfolio/form_projeto.html", {"form": form})
+    return render(
+        request,
+        "portfolio/form_projeto.html",
+        {"form": form}
+    )
 
+@login_required
 def editar_projeto(request, id):
+
+    if not is_gestor(request.user):
+        return HttpResponseForbidden("Sem permissão")
+
     projeto = get_object_or_404(Projeto, id=id)
 
     if request.method == "POST":
-        form = ProjetoForm(request.POST, request.FILES, instance=projeto)
+
+        form = ProjetoForm(
+            request.POST,
+            request.FILES,
+            instance=projeto
+        )
+
         if form.is_valid():
             form.save()
             return redirect("lista_projetos")
+
     else:
         form = ProjetoForm(instance=projeto)
 
-    return render(request, "portfolio/form_projeto.html", {"form": form})
+    return render(
+        request,
+        "portfolio/form_projeto.html",
+        {"form": form}
+    )
 
+@login_required
 def apagar_projeto(request, id):
+
+    if not is_gestor(request.user):
+        return HttpResponseForbidden("Sem permissão")
+
     projeto = get_object_or_404(Projeto, id=id)
 
     if request.method == "POST":
         projeto.delete()
         return redirect("lista_projetos")
 
-    return render(request, "portfolio/confirmar_delete.html", {"projeto": projeto})
+    return render(
+        request,
+        "portfolio/confirmar_delete.html",
+        {"projeto": projeto}
+    )
 
 
 def portfolio_view(request):
     return render(request, "portfolio/portfolio.html")
 
 
+@login_required
 def criar_tecnologia(request):
+
+    if not is_gestor(request.user):
+        return HttpResponseForbidden("Sem permissão")
+
     if request.method == "POST":
+
         form = TecnologiaForm(request.POST, request.FILES)
+
         if form.is_valid():
             form.save()
             return redirect("lista_tecnologias")
+
     else:
         form = TecnologiaForm()
 
-    return render(request, "portfolio/form_tecnologia.html", {"form": form})
-
+    return render(
+        request,
+        "portfolio/form_tecnologia.html",
+        {"form": form}
+    )
+@login_required
 def editar_tecnologia(request, id):
+
+    if not is_gestor(request.user):
+        return HttpResponseForbidden("Sem permissão")
+
     tecnologia = get_object_or_404(Tecnologia, id=id)
 
     if request.method == "POST":
-        form = TecnologiaForm(request.POST, request.FILES, instance=tecnologia)
+
+        form = TecnologiaForm(
+            request.POST,
+            request.FILES,
+            instance=tecnologia
+        )
+
         if form.is_valid():
             form.save()
             return redirect("lista_tecnologias")
+
     else:
         form = TecnologiaForm(instance=tecnologia)
 
-    return render(request, "portfolio/form_tecnologia.html", {"form": form})
+    return render(
+        request,
+        "portfolio/form_tecnologia.html",
+        {"form": form}
+    )
 
+
+@login_required
 def apagar_tecnologia(request, id):
+
+    if not is_gestor(request.user):
+        return HttpResponseForbidden("Sem permissão")
+
     tecnologia = get_object_or_404(Tecnologia, id=id)
 
     if request.method == "POST":
         tecnologia.delete()
         return redirect("lista_tecnologias")
 
-    return render(request, "portfolio/confirmar_delete_tecnologia.html", {"tecnologia": tecnologia})
+    return render(
+        request,
+        "portfolio/confirmar_delete_tecnologia.html",
+        {"tecnologia": tecnologia}
+    )
 
 def lista_projetos(request):
     projetos = Projeto.objects.all()
@@ -97,78 +177,149 @@ def lista_formacoes(request):
     formacoes = Formacao.objects.all()
     return render(request, "portfolio/formacoes.html", {"formacoes": formacoes})
 
+@login_required
 def criar_competencia(request):
+
+    if not is_gestor(request.user):
+        return HttpResponseForbidden("Sem permissão")
+
     if request.method == "POST":
+
         form = CompetenciaForm(request.POST)
+
         if form.is_valid():
             form.save()
             return redirect("lista_competencias")
+
     else:
         form = CompetenciaForm()
 
-    return render(request, "portfolio/form_competencia.html", {"form": form})
+    return render(
+        request,
+        "portfolio/form_competencia.html",
+        {"form": form}
+    )
 
 
+@login_required
 def editar_competencia(request, id):
+
+    if not is_gestor(request.user):
+        return HttpResponseForbidden("Sem permissão")
+
     competencia = get_object_or_404(Competencia, id=id)
 
     if request.method == "POST":
-        form = CompetenciaForm(request.POST, instance=competencia)
+
+        form = CompetenciaForm(
+            request.POST,
+            instance=competencia
+        )
+
         if form.is_valid():
             form.save()
             return redirect("lista_competencias")
+
     else:
         form = CompetenciaForm(instance=competencia)
 
-    return render(request, "portfolio/form_competencia.html", {"form": form})
+    return render(
+        request,
+        "portfolio/form_competencia.html",
+        {"form": form}
+    )
 
 
+@login_required
 def apagar_competencia(request, id):
+
+    if not is_gestor(request.user):
+        return HttpResponseForbidden("Sem permissão")
+
     competencia = get_object_or_404(Competencia, id=id)
 
     if request.method == "POST":
         competencia.delete()
         return redirect("lista_competencias")
 
-    return render(request, "portfolio/confirmar_delete_competencia.html", {"competencia": competencia})
+    return render(
+        request,
+        "portfolio/confirmar_delete_competencia.html",
+        {"competencia": competencia}
+    )
 
+
+@login_required
 def criar_formacao(request):
+
+    if not is_gestor(request.user):
+        return HttpResponseForbidden("Sem permissão")
+
     if request.method == "POST":
+
         form = FormacaoForm(request.POST, request.FILES)
+
         if form.is_valid():
             form.save()
             return redirect("lista_formacoes")
+
     else:
         form = FormacaoForm()
 
-    return render(request, "portfolio/form_formacao.html", {"form": form})
+    return render(
+        request,
+        "portfolio/form_formacao.html",
+        {"form": form}
+    )
 
 
+@login_required
 def editar_formacao(request, id):
+
+    if not is_gestor(request.user):
+        return HttpResponseForbidden("Sem permissão")
+
     formacao = get_object_or_404(Formacao, id=id)
 
     if request.method == "POST":
-        form = FormacaoForm(request.POST, request.FILES, instance=formacao)
+
+        form = FormacaoForm(
+            request.POST,
+            request.FILES,
+            instance=formacao
+        )
+
         if form.is_valid():
             form.save()
             return redirect("lista_formacoes")
+
     else:
         form = FormacaoForm(instance=formacao)
 
-    return render(request, "portfolio/form_formacao.html", {"form": form})
+    return render(
+        request,
+        "portfolio/form_formacao.html",
+        {"form": form}
+    )
 
 
+@login_required
 def apagar_formacao(request, id):
+
+    if not is_gestor(request.user):
+        return HttpResponseForbidden("Sem permissão")
+
     formacao = get_object_or_404(Formacao, id=id)
 
     if request.method == "POST":
         formacao.delete()
         return redirect("lista_formacoes")
 
-    return render(request, "portfolio/confirmar_delete_formacao.html", {"formacao": formacao})
-
-def sobre(request):
-    return render(request, "portfolio/sobre.html")
+    return render(
+        request,
+        "portfolio/confirmar_delete_formacao.html",
+        {"formacao": formacao}
+    )
 
 def sobre(request):
     texto = """

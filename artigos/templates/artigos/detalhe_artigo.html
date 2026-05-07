@@ -1,0 +1,86 @@
+<h1>{{ artigo.titulo }}</h1>
+
+<p>{{ artigo.texto }}</p>
+
+{% if artigo.fotografia %}
+
+<img
+    src="{{ artigo.fotografia.url }}"
+    width="400"
+>
+
+{% endif %}
+
+{% if artigo.link_externo %}
+
+<p>
+
+    <a
+        href="{{ artigo.link_externo }}"
+        target="_blank"
+    >
+
+        {{ artigo.link_externo }}
+
+    </a>
+
+</p>
+
+
+{% endif %}
+
+<p>Autor: {{ artigo.autor }}</p>
+
+<p>Likes: {{ artigo.total_likes }}</p>
+
+<a href="{% url 'like_artigo' artigo.id %}">
+    Gostar
+</a>
+
+{% if request.user == artigo.autor %}
+
+<a href="{% url 'editar_artigo' artigo.id %}">
+    Editar
+</a>
+
+{% endif %}
+
+<hr>
+
+<h2>Comentários</h2>
+
+{% for comentario in comentarios %}
+
+<p>
+    <strong>{{ comentario.utilizador }}</strong>
+</p>
+
+<p>
+    {{ comentario.texto }}
+</p>
+
+<hr>
+
+{% endfor %}
+
+{% if user.is_authenticated %}
+
+<form method="POST">
+
+    {% csrf_token %}
+
+    {{ form.as_p }}
+
+    <button type="submit">
+        Comentar
+    </button>
+
+</form>
+
+{% else %}
+
+<p>
+    Faça login para comentar
+</p>
+
+{% endif %}
