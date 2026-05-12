@@ -1,0 +1,13 @@
+[
+{
+  "model": "portfolio.licenciatura",
+  "pk": 1,
+  "fields": {
+    "nome": "Computing Engineering",
+    "ano_inicio": 2025,
+    "ano_fim": null,
+    "universidade": "ULHT",
+    "descricao": ""
+  }
+}
+]

@@ -15,10 +15,10 @@ NIVEL_CHOICES = [
 # Licenciatura
 # ─────────────────────────────────────────
 class Licenciatura(models.Model):
-    nome         = models.CharField(max_length=200)
+    nome         = models.CharField(max_length=1000)
     ano_inicio   = models.IntegerField()
     ano_fim      = models.IntegerField(null=True, blank=True)
-    universidade = models.CharField(max_length=200)
+    universidade = models.CharField(max_length=1000)
     descricao    = models.TextField(blank=True)
  
     def __str__(self):
@@ -37,7 +37,7 @@ class Licenciatura(models.Model):
 # Docente
 # ─────────────────────────────────────────
 class Docente(models.Model):
-    nome = models.CharField(max_length=200)
+    nome = models.CharField(max_length=1000)
     mail = models.EmailField(blank=True)
     link_pagina = models.URLField(blank=True)
 
@@ -58,15 +58,15 @@ TIPO_CHOICES = [
 ]
 
 class UnidadeCurricular(models.Model):
-    nome = models.CharField(max_length=200)
-    codigo = models.CharField(max_length=50, unique=True)
+    nome = models.CharField(max_length=1000)
+    codigo = models.CharField(max_length=1000, unique=True)
 
     semestre = models.PositiveSmallIntegerField(null=True, blank=True)
     ano = models.PositiveSmallIntegerField()
     ects = models.PositiveSmallIntegerField()
 
-    tipo = models.CharField(max_length=50, choices=TIPO_CHOICES, blank=True)
-    natureza = models.CharField(max_length=50, blank=True)
+    tipo = models.CharField(max_length=1000, choices=TIPO_CHOICES, blank=True)
+    natureza = models.CharField(max_length=1000, blank=True)
 
     objetivos = models.TextField(blank=True)
     programa = models.TextField(blank=True)
@@ -109,7 +109,7 @@ class TipoTecnologia(models.Model):
 # ─────────────────────────────────────────
 
 class Tecnologia(models.Model):
-    nome            = models.CharField(max_length=100)
+    nome            = models.CharField(max_length=1000)
     tipo = models.ForeignKey(TipoTecnologia, on_delete=models.CASCADE, null=True, blank=True)
     descricao       = models.TextField(blank=True)
     logo            = models.ImageField(upload_to="tecnologias/logos/", null=True, blank=True)
@@ -129,7 +129,7 @@ class Tecnologia(models.Model):
 # ─────────────────────────────────────────
 
 class Competencia(models.Model):
-    nome = models.CharField(max_length=200)
+    nome = models.CharField(max_length=1000)
     nivel = models.PositiveSmallIntegerField(choices=NIVEL_CHOICES, default=3)
     descricao = models.TextField(blank=True)
 
@@ -158,14 +158,14 @@ class Projeto(models.Model):
         ("concluido", "Concluído"),
     ]
 
-    titulo              = models.CharField(max_length=300)
+    titulo              = models.CharField(max_length=1000)
     ano                 = models.PositiveSmallIntegerField()
     conceitos_aplicados = models.TextField(blank=True)
     imagem = models.ImageField(upload_to="tfcs/", blank=True, null=True)
     video_demo          = models.URLField(blank=True)
     link_repositorio    = models.URLField(blank=True)
-    estado              = models.CharField(max_length=20, choices=ESTADO_CHOICES, default="em_curso")
-    autor = models.CharField(max_length=200)
+    estado              = models.CharField(max_length=1000, choices=ESTADO_CHOICES, default="em_curso")
+    autor = models.CharField(max_length=1000)
     
     # Projeto - UC  →  N:1
     unidade_curricular = models.ForeignKey(
@@ -212,9 +212,9 @@ class TFC(Projeto):
     # NOVOS CAMPOS (alinhados com JSON)
     resumo = models.TextField(blank=True)
 
-    palavras_chave = models.CharField(max_length=300, blank=True)
+    palavras_chave = models.CharField(max_length=1000, blank=True)
 
-    area = models.CharField(max_length=200, blank=True)
+    area = models.CharField(max_length=1000, blank=True)
 
     rating = models.IntegerField(
     validators=[MinValueValidator(0), MaxValueValidator(10)],
@@ -248,7 +248,7 @@ class Classificacao(models.Model):
         ]
     )
     data      = models.DateField()
-    tipo      = models.CharField(max_length=50, choices=TIPO_CHOICES)
+    tipo      = models.CharField(max_length=1000, choices=TIPO_CHOICES)
     descricao = models.TextField(blank=True)
 
     # Classificação - Projeto  →  N:1
@@ -302,7 +302,7 @@ class Classificacao(models.Model):
 # ─────────────────────────────────────────
 class MakingOf(models.Model):
     data = models.DateField()
-    etapa = models.CharField(max_length=200)
+    etapa = models.CharField(max_length=1000)
     descricao = models.TextField(blank=True)
     foto = models.ImageField(upload_to="makingof/fotos/", null=True, blank=True)
     decisao = models.TextField(blank=True)
@@ -322,10 +322,10 @@ class MakingOf(models.Model):
 # Formação
 # ─────────────────────────────────────────
 class Formacao(models.Model):
-    nome               = models.CharField(max_length=300)
+    nome               = models.CharField(max_length=1000)
     data_inicio        = models.DateField()
     data_fim           = models.DateField(null=True, blank=True)
-    entidade_formadora = models.CharField(max_length=200)
+    entidade_formadora = models.CharField(max_length=1000)
     certificado        = models.FileField(upload_to="formacoes/certificados/", null=True, blank=True)
     descricao          = models.TextField(blank=True)
 

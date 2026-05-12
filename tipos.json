@@ -1,0 +1,23 @@
+[
+{
+  "model": "portfolio.tipotecnologia",
+  "pk": 1,
+  "fields": {
+    "nome": "Backend"
+  }
+},
+{
+  "model": "portfolio.tipotecnologia",
+  "pk": 3,
+  "fields": {
+    "nome": "Fronted"
+  }
+},
+{
+  "model": "portfolio.tipotecnologia",
+  "pk": 4,
+  "fields": {
+    "nome": "Outros"
+  }
+}
+]

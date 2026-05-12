@@ -1,0 +1,3314 @@
+[
+{
+  "model": "portfolio.tecnologia",
+  "pk": 1,
+  "fields": {
+    "nome": "Python",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 2,
+  "fields": {
+    "nome": "Sklearn.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 3,
+  "fields": {
+    "nome": ".NET",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 4,
+  "fields": {
+    "nome": "C#",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 5,
+  "fields": {
+    "nome": "Dart",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 6,
+  "fields": {
+    "nome": "Docker",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 7,
+  "fields": {
+    "nome": "Entity Framework",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 8,
+  "fields": {
+    "nome": "Flutter",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 9,
+  "fields": {
+    "nome": "JSON",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 10,
+  "fields": {
+    "nome": "REST",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 11,
+  "fields": {
+    "nome": "SQL Server.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 12,
+  "fields": {
+    "nome": "Firebase",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 13,
+  "fields": {
+    "nome": "Flutter.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 14,
+  "fields": {
+    "nome": "Bootstrap",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 15,
+  "fields": {
+    "nome": "CSS",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 16,
+  "fields": {
+    "nome": "Django",
+    "tipo": 1,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 17,
+  "fields": {
+    "nome": "HTML",
+    "tipo": 3,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 18,
+  "fields": {
+    "nome": "JavaScript",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 19,
+  "fields": {
+    "nome": "Python.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 20,
+  "fields": {
+    "nome": "Matplotlib",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 21,
+  "fields": {
+    "nome": "NumPy",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 22,
+  "fields": {
+    "nome": "Pandas",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 23,
+  "fields": {
+    "nome": "HTTP Webservices",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 24,
+  "fields": {
+    "nome": "Spring Boot (Java).",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 25,
+  "fields": {
+    "nome": "Kotlin",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 26,
+  "fields": {
+    "nome": "Git",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 27,
+  "fields": {
+    "nome": "H2",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 28,
+  "fields": {
+    "nome": "Jira",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 29,
+  "fields": {
+    "nome": "LLM",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 30,
+  "fields": {
+    "nome": "MySQL",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 31,
+  "fields": {
+    "nome": "Ollama",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 32,
+  "fields": {
+    "nome": "Selenium",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 33,
+  "fields": {
+    "nome": "Spring Boot (Java)",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 34,
+  "fields": {
+    "nome": "ThymeLeaf.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 35,
+  "fields": {
+    "nome": "Kotlin.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 36,
+  "fields": {
+    "nome": "JavaScript.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 37,
+  "fields": {
+    "nome": "RPA.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 38,
+  "fields": {
+    "nome": "PowerBI",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 39,
+  "fields": {
+    "nome": "Google Charts.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 40,
+  "fields": {
+    "nome": "AJAX",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 41,
+  "fields": {
+    "nome": "PHP",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 42,
+  "fields": {
+    "nome": "XAMPP.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 43,
+  "fields": {
+    "nome": "Bases de Dados",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 44,
+  "fields": {
+    "nome": "Bases de Dados.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 45,
+  "fields": {
+    "nome": "MariaDB",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 46,
+  "fields": {
+    "nome": "Postman",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 47,
+  "fields": {
+    "nome": "WordPress.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 48,
+  "fields": {
+    "nome": "PyTorch",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 49,
+  "fields": {
+    "nome": "React.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 50,
+  "fields": {
+    "nome": "PHP.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 51,
+  "fields": {
+    "nome": "PostGreSQL",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 52,
+  "fields": {
+    "nome": "WebAPI.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 53,
+  "fields": {
+    "nome": "Angular",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 54,
+  "fields": {
+    "nome": "JSON.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 55,
+  "fields": {
+    "nome": "Seaborn",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 56,
+  "fields": {
+    "nome": "Azure",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 57,
+  "fields": {
+    "nome": "Arduino",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 58,
+  "fields": {
+    "nome": "MySQL.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 59,
+  "fields": {
+    "nome": "Stripe.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 60,
+  "fields": {
+    "nome": "C",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 61,
+  "fields": {
+    "nome": "MVC",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 62,
+  "fields": {
+    "nome": "OpenAI",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 63,
+  "fields": {
+    "nome": "Ubuntu Server",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 64,
+  "fields": {
+    "nome": "Web.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 65,
+  "fields": {
+    "nome": "Flask",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 66,
+  "fields": {
+    "nome": "SQLite.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 67,
+  "fields": {
+    "nome": "ExploitdB",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 68,
+  "fields": {
+    "nome": "Misp",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 69,
+  "fields": {
+    "nome": "OpenCTI",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 70,
+  "fields": {
+    "nome": "Shodan.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 71,
+  "fields": {
+    "nome": "HTML.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 72,
+  "fields": {
+    "nome": "Excel",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 73,
+  "fields": {
+    "nome": "InfluxDB",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 74,
+  "fields": {
+    "nome": "Next.js",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 75,
+  "fields": {
+    "nome": "React",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 76,
+  "fields": {
+    "nome": "Tailwind CSS",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 77,
+  "fields": {
+    "nome": "Typescript .",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 78,
+  "fields": {
+    "nome": "Microsoft Visual Studio.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 79,
+  "fields": {
+    "nome": "Odoo.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 80,
+  "fields": {
+    "nome": "PostgreSQL",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 81,
+  "fields": {
+    "nome": "Ionic Framework",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 82,
+  "fields": {
+    "nome": "React.js",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 83,
+  "fields": {
+    "nome": "Android",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 84,
+  "fields": {
+    "nome": "iOS.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 85,
+  "fields": {
+    "nome": "Machine Learning",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 86,
+  "fields": {
+    "nome": "AWS",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 87,
+  "fields": {
+    "nome": "Express.js",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 88,
+  "fields": {
+    "nome": "Node.js",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 89,
+  "fields": {
+    "nome": "Svelte",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 90,
+  "fields": {
+    "nome": "SvelteKit",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 91,
+  "fields": {
+    "nome": "R Language.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 92,
+  "fields": {
+    "nome": "Programação",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 93,
+  "fields": {
+    "nome": "OAuth",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 94,
+  "fields": {
+    "nome": "cron.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 95,
+  "fields": {
+    "nome": "ASP.NET",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 96,
+  "fields": {
+    "nome": "MVC.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 97,
+  "fields": {
+    "nome": "django.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 98,
+  "fields": {
+    "nome": "Java",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 99,
+  "fields": {
+    "nome": "Maven",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 100,
+  "fields": {
+    "nome": "MongoDB",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 101,
+  "fields": {
+    "nome": "Spring MVC.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 102,
+  "fields": {
+    "nome": "REST.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 103,
+  "fields": {
+    "nome": "NoSQL",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 104,
+  "fields": {
+    "nome": "R.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 105,
+  "fields": {
+    "nome": "APIs Rest",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 106,
+  "fields": {
+    "nome": "Application Server",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 107,
+  "fields": {
+    "nome": "ChatGPT/Bart",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 108,
+  "fields": {
+    "nome": "Web Serve.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 109,
+  "fields": {
+    "nome": "OpenA",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 110,
+  "fields": {
+    "nome": "Web Serve",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 111,
+  "fields": {
+    "nome": "RPA",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 112,
+  "fields": {
+    "nome": "SQL.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 113,
+  "fields": {
+    "nome": "MS-SQL",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 114,
+  "fields": {
+    "nome": "SQL",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 115,
+  "fields": {
+    "nome": "Vue/Quasar/etc.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 116,
+  "fields": {
+    "nome": "Oracle Apex",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 117,
+  "fields": {
+    "nome": "Matlab",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 118,
+  "fields": {
+    "nome": "Spring MVC",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 119,
+  "fields": {
+    "nome": "SQLite",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 120,
+  "fields": {
+    "nome": "XML.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 121,
+  "fields": {
+    "nome": "Stripe",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 122,
+  "fields": {
+    "nome": "API Rest",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 123,
+  "fields": {
+    "nome": "Azure.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 124,
+  "fields": {
+    "nome": "MQTT.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 125,
+  "fields": {
+    "nome": "Java (Android)",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 126,
+  "fields": {
+    "nome": "Matplotlib.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 127,
+  "fields": {
+    "nome": "Django.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 128,
+  "fields": {
+    "nome": "Next.js.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 129,
+  "fields": {
+    "nome": "PhpMyAdmin",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 130,
+  "fields": {
+    "nome": "api",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 131,
+  "fields": {
+    "nome": "cron",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 132,
+  "fields": {
+    "nome": "gitlab.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 133,
+  "fields": {
+    "nome": "Postman.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 134,
+  "fields": {
+    "nome": "SQL Server",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 135,
+  "fields": {
+    "nome": "MS-SQL.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 136,
+  "fields": {
+    "nome": "React.js.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 137,
+  "fields": {
+    "nome": "Unity.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 138,
+  "fields": {
+    "nome": "AWS API Gateway",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 139,
+  "fields": {
+    "nome": "AWS Cognito",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 140,
+  "fields": {
+    "nome": "AWS PaaS .",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 141,
+  "fields": {
+    "nome": "Elastic Search",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 142,
+  "fields": {
+    "nome": "CMS",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 143,
+  "fields": {
+    "nome": "TensorFlow.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 144,
+  "fields": {
+    "nome": "Apache JMeter",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 145,
+  "fields": {
+    "nome": "RGPD.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 146,
+  "fields": {
+    "nome": "Logstash",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 147,
+  "fields": {
+    "nome": "Shodan",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 148,
+  "fields": {
+    "nome": "kubernettes.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 149,
+  "fields": {
+    "nome": "ESP8266",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 150,
+  "fields": {
+    "nome": "Programação .",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 151,
+  "fields": {
+    "nome": "Bluetooth",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 152,
+  "fields": {
+    "nome": "Node.js.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 153,
+  "fields": {
+    "nome": "Outsystems.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 154,
+  "fields": {
+    "nome": "Android.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 155,
+  "fields": {
+    "nome": "Flask.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 156,
+  "fields": {
+    "nome": "Ionic",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 157,
+  "fields": {
+    "nome": "Ionic.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 158,
+  "fields": {
+    "nome": "Passport.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 159,
+  "fields": {
+    "nome": "NetLogo",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 160,
+  "fields": {
+    "nome": "C#.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 161,
+  "fields": {
+    "nome": "ASP.NET.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 162,
+  "fields": {
+    "nome": "Fortran",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 163,
+  "fields": {
+    "nome": "Sklearn",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 164,
+  "fields": {
+    "nome": "TKinter.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 165,
+  "fields": {
+    "nome": "C.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 166,
+  "fields": {
+    "nome": "MongoDB.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 167,
+  "fields": {
+    "nome": "Odoo",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 168,
+  "fields": {
+    "nome": "Filezilla",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 169,
+  "fields": {
+    "nome": "PhpMyAdmin.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 170,
+  "fields": {
+    "nome": "Visual Paradigm.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 171,
+  "fields": {
+    "nome": "Seaborn.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 172,
+  "fields": {
+    "nome": "Adobe XD",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 173,
+  "fields": {
+    "nome": "Java.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 174,
+  "fields": {
+    "nome": "Eclipse",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 175,
+  "fields": {
+    "nome": "Linux Ubuntu",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 176,
+  "fields": {
+    "nome": "PostgreSQL.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 177,
+  "fields": {
+    "nome": "Alfresco",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 178,
+  "fields": {
+    "nome": "WampServer",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 179,
+  "fields": {
+    "nome": "Web",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 180,
+  "fields": {
+    "nome": "Arduino.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 181,
+  "fields": {
+    "nome": "Appcelerator",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 182,
+  "fields": {
+    "nome": "Swift",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 183,
+  "fields": {
+    "nome": "Xcode.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 184,
+  "fields": {
+    "nome": "SAS Enterprise Miner.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 185,
+  "fields": {
+    "nome": "Xamarin.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 186,
+  "fields": {
+    "nome": "Google Drive",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 187,
+  "fields": {
+    "nome": "Google Sheets API",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 188,
+  "fields": {
+    "nome": "Pinta",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 189,
+  "fields": {
+    "nome": "SUGARCRM.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 190,
+  "fields": {
+    "nome": "CodeIgniter",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 191,
+  "fields": {
+    "nome": "SILK UI",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 192,
+  "fields": {
+    "nome": "IIS",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 193,
+  "fields": {
+    "nome": "Mono",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 194,
+  "fields": {
+    "nome": "Visual Studio Team Services",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 195,
+  "fields": {
+    "nome": "WebAPI",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 196,
+  "fields": {
+    "nome": "AngularJS",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 197,
+  "fields": {
+    "nome": "SGDB",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 198,
+  "fields": {
+    "nome": "Sublime Text 3",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 199,
+  "fields": {
+    "nome": "Bitrix24",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 200,
+  "fields": {
+    "nome": "Pentaho Data Integration",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 201,
+  "fields": {
+    "nome": "ZXing.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 202,
+  "fields": {
+    "nome": "Apache",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 203,
+  "fields": {
+    "nome": "MariaDB.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 204,
+  "fields": {
+    "nome": "Artistier",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 205,
+  "fields": {
+    "nome": "XampServer.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 206,
+  "fields": {
+    "nome": "Notepad++",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 207,
+  "fields": {
+    "nome": "Windows.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 208,
+  "fields": {
+    "nome": "Apache2",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 209,
+  "fields": {
+    "nome": "DomPDF",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 210,
+  "fields": {
+    "nome": "Sublime Text 2",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 211,
+  "fields": {
+    "nome": "WampServer.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 212,
+  "fields": {
+    "nome": "Java (Android).",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 213,
+  "fields": {
+    "nome": "Parse",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 214,
+  "fields": {
+    "nome": "Game Maker Studio",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 215,
+  "fields": {
+    "nome": "XNA.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 216,
+  "fields": {
+    "nome": "BinaryJs",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 217,
+  "fields": {
+    "nome": "HRML",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 218,
+  "fields": {
+    "nome": "FFmpeg",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 219,
+  "fields": {
+    "nome": "Flowplayer",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 220,
+  "fields": {
+    "nome": "Google Charts",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 221,
+  "fields": {
+    "nome": "JQueriUI",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 222,
+  "fields": {
+    "nome": "JQuery",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 223,
+  "fields": {
+    "nome": "SWFObject",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 224,
+  "fields": {
+    "nome": "SWFTools.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 225,
+  "fields": {
+    "nome": "Big Data.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 226,
+  "fields": {
+    "nome": "RWD.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 227,
+  "fields": {
+    "nome": "Data Mining.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 228,
+  "fields": {
+    "nome": "GML",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 229,
+  "fields": {
+    "nome": "Game Maker Studio.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 230,
+  "fields": {
+    "nome": "IPSEC",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 231,
+  "fields": {
+    "nome": "MPLS.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 232,
+  "fields": {
+    "nome": "SVG.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 233,
+  "fields": {
+    "nome": "Joomla",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 234,
+  "fields": {
+    "nome": "PrestaShop",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 235,
+  "fields": {
+    "nome": "WordPress",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 236,
+  "fields": {
+    "nome": "FOAF + SSL.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 237,
+  "fields": {
+    "nome": "Objective-C",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 238,
+  "fields": {
+    "nome": "Silverlight",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 239,
+  "fields": {
+    "nome": "WCF Service.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 240,
+  "fields": {
+    "nome": "Microsoft Visual Studio",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 241,
+  "fields": {
+    "nome": "Perl",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 242,
+  "fields": {
+    "nome": "IPv6",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 243,
+  "fields": {
+    "nome": "Ubuntu Server.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 244,
+  "fields": {
+    "nome": "FreeBSD",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 245,
+  "fields": {
+    "nome": "HTTP Webservices.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 246,
+  "fields": {
+    "nome": "Microsoft BizTalk Server",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 247,
+  "fields": {
+    "nome": "Microsoft Office SharePoint Server.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 248,
+  "fields": {
+    "nome": "Sybas.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 249,
+  "fields": {
+    "nome": "Maltego",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 250,
+  "fields": {
+    "nome": "NMAP.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 251,
+  "fields": {
+    "nome": "Notepad++.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 252,
+  "fields": {
+    "nome": "Siebel.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 253,
+  "fields": {
+    "nome": ".NET.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 254,
+  "fields": {
+    "nome": "ERP – SAP",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 255,
+  "fields": {
+    "nome": "VoIP.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 256,
+  "fields": {
+    "nome": "Tomcat.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 257,
+  "fields": {
+    "nome": "Cisco",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 258,
+  "fields": {
+    "nome": "Windows",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 259,
+  "fields": {
+    "nome": "DOM",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 260,
+  "fields": {
+    "nome": "OLE",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 261,
+  "fields": {
+    "nome": "XML",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 262,
+  "fields": {
+    "nome": "XSL.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 263,
+  "fields": {
+    "nome": "Visual Studio Team Services.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 264,
+  "fields": {
+    "nome": "DHCP.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 265,
+  "fields": {
+    "nome": "Microsoft Visual Basic 6.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 266,
+  "fields": {
+    "nome": "Power Desinger",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 267,
+  "fields": {
+    "nome": "UML.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 268,
+  "fields": {
+    "nome": "Bluetooth.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 269,
+  "fields": {
+    "nome": "Active Server Pages",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 270,
+  "fields": {
+    "nome": "Microsoft Access.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 271,
+  "fields": {
+    "nome": "Cisco.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 272,
+  "fields": {
+    "nome": "Crystal Reports",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 273,
+  "fields": {
+    "nome": "InstallShield",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 274,
+  "fields": {
+    "nome": "Microsoft Access 2003",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 275,
+  "fields": {
+    "nome": "Visual FoxPro.",
+    "tipo": null,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 3
+  }
+},
+{
+  "model": "portfolio.tecnologia",
+  "pk": 276,
+  "fields": {
+    "nome": "Github",
+    "tipo": 4,
+    "descricao": "",
+    "logo": "",
+    "link_oficial": "",
+    "nivel_interesse": 5
+  }
+}
+]
